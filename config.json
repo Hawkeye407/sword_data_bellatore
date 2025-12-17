@@ -334,6 +334,20 @@
       "crossguard_photo": "photos/cylindrical.png",
       "crossguard_visualization": "visualization/vz_cylindrical.png",
       "label": ""
+    },
+    {
+      "crossguard_id": "standard_one_handed",
+      "model_id_list": "custom_feder, custom_one_handed_sword",
+      "crossguard_name": "Standard",
+      "crossguard_description": "",
+      "crossguard_long_description": "",
+      "crossguard_total_price": "0",
+      "crossguard_price": "0",
+      "crossguard_vat": "0",
+      "crossguard_length_compatibility": "25, 28, 18",
+      "crossguard_photo": "photos/standard_one_handed.png",
+      "crossguard_visualization": "visualization/vz_standard_one_handed.png",
+      "label": "recommended"
     }
   ],
   "crossguard_length": [
@@ -403,7 +417,7 @@
   "grip": [
     {
       "grip_id": "oval",
-      "model_id_list": "custom_feder, custom_one_handed_sword",
+      "model_id_list": "custom_feder",
       "grip_name": "Oval",
       "grip_description": "",
       "grip_long_description": "",
@@ -438,6 +452,19 @@
       "grip_vat": "2.1",
       "grip_photo": "photos/rectangle_waisted.png",
       "grip_visualization": "visualization/vz_rectangle_waisted.png",
+      "label": ""
+    },
+    {
+      "grip_id": "oval_one_handed",
+      "model_id_list": "custom_one_handed_sword",
+      "grip_name": "Oval",
+      "grip_description": "",
+      "grip_long_description": "",
+      "grip_total_price": "0",
+      "grip_price": "0",
+      "grip_vat": "0",
+      "grip_photo": "photos/oval.png",
+      "grip_visualization": "visualization/vz_oval_one_handed.png",
       "label": ""
     }
   ],
