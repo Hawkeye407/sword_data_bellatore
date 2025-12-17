@@ -287,8 +287,8 @@
       "crossguard_price": "0",
       "crossguard_vat": "0",
       "crossguard_length_compatibility": "25, 28",
-      "crossguard_photo": "photos/standard.jpg",
-      "crossguard_visualization": "visualization/vz_standard.jpg",
+      "crossguard_photo": "photos/standard.png",
+      "crossguard_visualization": "visualization/vz_standard.png",
       "label": "recommended"
     },
     {
@@ -301,8 +301,8 @@
       "crossguard_price": "15",
       "crossguard_vat": "3.15",
       "crossguard_length_compatibility": "25, 28",
-      "crossguard_photo": "photos/twisted.jpg",
-      "crossguard_visualization": "visualization/vz_twisted.jpg",
+      "crossguard_photo": "photos/twisted.png",
+      "crossguard_visualization": "visualization/vz_twisted.png",
       "label": ""
     },
     {
@@ -315,8 +315,8 @@
       "crossguard_price": "15",
       "crossguard_vat": "3.15",
       "crossguard_length_compatibility": "25, 28",
-      "crossguard_photo": "photos/waved.jpg",
-      "crossguard_visualization": "visualization/vz_waved.jpg",
+      "crossguard_photo": "photos/waved.png",
+      "crossguard_visualization": "visualization/vz_waved.png",
       "label": ""
     },
     {
@@ -329,8 +329,8 @@
       "crossguard_price": "40",
       "crossguard_vat": "8.4",
       "crossguard_length_compatibility": "25, 28",
-      "crossguard_photo": "photos/cylindrical.jpg",
-      "crossguard_visualization": "visualization/vz_cylindrical.jpg",
+      "crossguard_photo": "photos/cylindrical.png",
+      "crossguard_visualization": "visualization/vz_cylindrical.png",
       "label": ""
     }
   ],
@@ -402,7 +402,7 @@
       "grip_price": "0",
       "grip_vat": "0",
       "grip_photo": "photos/oval.png",
-      "grip_visualization": "visualization/vz_oval.jpg",
+      "grip_visualization": "visualization/vz_oval.png",
       "label": ""
     },
     {
@@ -415,7 +415,7 @@
       "grip_price": "10",
       "grip_vat": "2.1",
       "grip_photo": "photos/octagonal_waisted.png",
-      "grip_visualization": "visualization/vz_octagonal_waisted.jpg",
+      "grip_visualization": "visualization/vz_octagonal_waisted.png",
       "label": "recommended"
     },
     {
@@ -428,7 +428,7 @@
       "grip_price": "10",
       "grip_vat": "2.1",
       "grip_photo": "photos/rectangle_waisted.png",
-      "grip_visualization": "visualization/vz_rectangle_waisted.jpg",
+      "grip_visualization": "visualization/vz_rectangle_waisted.png",
       "label": ""
     },
     {
@@ -441,7 +441,7 @@
       "grip_price": "5",
       "grip_vat": "1.05",
       "grip_photo": "photos/rectangle_waisted.png",
-      "grip_visualization": "visualization/vz_knife_grip.jpg",
+      "grip_visualization": "visualization/vz_knife_grip.png",
       "label": ""
     }
   ],
@@ -548,8 +548,8 @@
       "grip_finish_total_price": "0",
       "grip_finish_price": "0",
       "grip_finish_vat": "0",
-      "grip_finish_photo": "photos/cord.jpg",
-      "grip_finish_visualization": "visualization/vz_cord.jpg",
+      "grip_finish_photo": "photos/cord.png",
+      "grip_finish_visualization": "visualization/vz_cord.png",
       "label": ""
     },
     {
@@ -562,8 +562,8 @@
       "grip_finish_total_price": "6.05",
       "grip_finish_price": "5",
       "grip_finish_vat": "1.05",
-      "grip_finish_photo": "photos/double_cord.jpg",
-      "grip_finish_visualization": "visualization/vz_double_cord.jpg",
+      "grip_finish_photo": "photos/double_cord.png",
+      "grip_finish_visualization": "visualization/vz_double_cord.png",
       "label": ""
     },
     {
@@ -576,8 +576,8 @@
       "grip_finish_total_price": "12.1",
       "grip_finish_price": "10",
       "grip_finish_vat": "2.1",
-      "grip_finish_photo": "photos/spiral_leather.jpg",
-      "grip_finish_visualization": "visualization/vz_spiral_leather.jpg",
+      "grip_finish_photo": "photos/spiral_leather.png",
+      "grip_finish_visualization": "visualization/vz_spiral_leather.png",
       "label": ""
     },
     {
@@ -590,8 +590,8 @@
       "grip_finish_total_price": "30.25",
       "grip_finish_price": "25",
       "grip_finish_vat": "5.25",
-      "grip_finish_photo": "photos/double_spiral_leather.jpg",
-      "grip_finish_visualization": "visualization/vz_double_spiral_leather.jpg",
+      "grip_finish_photo": "photos/double_spiral_leather.png",
+      "grip_finish_visualization": "visualization/vz_double_spiral_leather.png",
       "label": ""
     },
     {
@@ -604,8 +604,8 @@
       "grip_finish_total_price": "30.25",
       "grip_finish_price": "25",
       "grip_finish_vat": "5.25",
-      "grip_finish_photo": "photos/wired_leather.jpg",
-      "grip_finish_visualization": "visualization/vz_wired_leather.jpg",
+      "grip_finish_photo": "photos/wired_leather.png",
+      "grip_finish_visualization": "visualization/vz_wired_leather.png",
       "label": ""
     },
     {
@@ -618,8 +618,8 @@
       "grip_finish_total_price": "36.3",
       "grip_finish_price": "30",
       "grip_finish_vat": "6.3",
-      "grip_finish_photo": "photos/ribbed_leather.jpg",
-      "grip_finish_visualization": "visualization/vz_ribbed_leather.jpg",
+      "grip_finish_photo": "photos/ribbed_leather.png",
+      "grip_finish_visualization": "visualization/vz_ribbed_leather.png",
       "label": ""
     }
   ],
@@ -909,8 +909,8 @@
       "pommel_total_price": "0",
       "pommel_price": "0",
       "pommel_vat": "0",
-      "pommel_photo": "photos/pear.jpg",
-      "pommel_visualization": "visualization/vz_pear.jpg",
+      "pommel_photo": "photos/pear.png",
+      "pommel_visualization": "visualization/vz_pear.png",
       "label": ""
     },
     {
@@ -923,8 +923,8 @@
       "pommel_total_price": "0",
       "pommel_price": "0",
       "pommel_vat": "0",
-      "pommel_photo": "photos/mushroom.jpg",
-      "pommel_visualization": "visualization/vz_mushroom.jpg",
+      "pommel_photo": "photos/mushroom.png",
+      "pommel_visualization": "visualization/vz_mushroom.png",
       "label": ""
     },
     {
@@ -937,8 +937,8 @@
       "pommel_total_price": "6.05",
       "pommel_price": "5",
       "pommel_vat": "1.05",
-      "pommel_photo": "photos/sphere.jpg",
-      "pommel_visualization": "visualization/vz_sphere.jpg",
+      "pommel_photo": "photos/sphere.png",
+      "pommel_visualization": "visualization/vz_sphere.png",
       "label": ""
     },
     {
@@ -951,8 +951,8 @@
       "pommel_total_price": "6.05",
       "pommel_price": "5",
       "pommel_vat": "1.05",
-      "pommel_photo": "photos/slim_pear.jpg",
-      "pommel_visualization": "visualization/vz_slim_pear.jpg",
+      "pommel_photo": "photos/slim_pear.png",
+      "pommel_visualization": "visualization/vz_slim_pear.png",
       "label": ""
     },
     {
@@ -965,8 +965,8 @@
       "pommel_total_price": "24.2",
       "pommel_price": "20",
       "pommel_vat": "4.2",
-      "pommel_photo": "photos/parfume.jpg",
-      "pommel_visualization": "visualization/vz_parfume.jpg",
+      "pommel_photo": "photos/parfume.png",
+      "pommel_visualization": "visualization/vz_parfume.png",
       "label": "recommended"
     },
     {
@@ -979,8 +979,8 @@
       "pommel_total_price": "42.35",
       "pommel_price": "35",
       "pommel_vat": "7.35",
-      "pommel_photo": "photos/faceted_mushroom.jpg",
-      "pommel_visualization": "visualization/vz_faceted_mushroom.jpg",
+      "pommel_photo": "photos/faceted_mushroom.png",
+      "pommel_visualization": "visualization/vz_faceted_mushroom.png",
       "label": ""
     },
     {
@@ -993,8 +993,8 @@
       "pommel_total_price": "42.35",
       "pommel_price": "35",
       "pommel_vat": "7.35",
-      "pommel_photo": "photos/faceted_pear.jpg",
-      "pommel_visualization": "visualization/vz_faceted_pear.jpg",
+      "pommel_photo": "photos/faceted_pear.png",
+      "pommel_visualization": "visualization/vz_faceted_pear.png",
       "label": ""
     }
   ],
