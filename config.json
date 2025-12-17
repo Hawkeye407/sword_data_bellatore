@@ -281,7 +281,7 @@
   "crossguard": [
     {
       "crossguard_id": "standard",
-      "model_id_list": "custom_feder, custom_one_handed_sword",
+      "model_id_list": "custom_feder",
       "crossguard_name": "Standard",
       "crossguard_description": "",
       "crossguard_long_description": "",
@@ -337,7 +337,7 @@
     },
     {
       "crossguard_id": "standard_one_handed",
-      "model_id_list": "custom_feder, custom_one_handed_sword",
+      "model_id_list": "custom_one_handed_sword",
       "crossguard_name": "Standard",
       "crossguard_description": "",
       "crossguard_long_description": "",
@@ -933,7 +933,7 @@
   "pommel": [
     {
       "pommel_id": "pear",
-      "model_id_list": "custom_feder, custom_one_handed_sword",
+      "model_id_list": "custom_feder",
       "pommel_name": "Pear",
       "pommel_description": "",
       "pommel_long_description": "",
@@ -947,7 +947,7 @@
     },
     {
       "pommel_id": "mushroom",
-      "model_id_list": "custom_feder, custom_one_handed_sword",
+      "model_id_list": "custom_feder",
       "pommel_name": "Mushroom",
       "pommel_description": "",
       "pommel_long_description": "",
@@ -961,7 +961,7 @@
     },
     {
       "pommel_id": "sphere",
-      "model_id_list": "custom_feder, custom_one_handed_sword",
+      "model_id_list": "custom_feder",
       "pommel_name": "Sphere",
       "pommel_description": "",
       "pommel_long_description": "",
@@ -975,7 +975,7 @@
     },
     {
       "pommel_id": "slim_pear",
-      "model_id_list": "custom_feder, custom_one_handed_sword",
+      "model_id_list": "custom_feder",
       "pommel_name": "Slim Pear",
       "pommel_description": "",
       "pommel_long_description": "",
@@ -989,7 +989,7 @@
     },
     {
       "pommel_id": "parfume",
-      "model_id_list": "custom_feder, custom_one_handed_sword",
+      "model_id_list": "custom_feder",
       "pommel_name": "Parfume",
       "pommel_description": "",
       "pommel_long_description": "",
@@ -1003,7 +1003,7 @@
     },
     {
       "pommel_id": "faceted_mushroom",
-      "model_id_list": "custom_feder, custom_one_handed_sword",
+      "model_id_list": "custom_feder",
       "pommel_name": "Faceted Mushroom",
       "pommel_description": "",
       "pommel_long_description": "",
@@ -1017,7 +1017,7 @@
     },
     {
       "pommel_id": "faceted_pear",
-      "model_id_list": "custom_feder, custom_one_handed_sword",
+      "model_id_list": "custom_feder",
       "pommel_name": "Faceted Pear",
       "pommel_description": "",
       "pommel_long_description": "",
@@ -1027,6 +1027,20 @@
       "pommel_vat": "7.35",
       "pommel_photo": "photos/faceted_pear.png",
       "pommel_visualization": "visualization/vz_faceted_pear.png",
+      "label": ""
+    },
+    {
+      "pommel_id": "disc_one_handed",
+      "model_id_list": "custom_one_handed_sword",
+      "pommel_name": "",
+      "pommel_description": "",
+      "pommel_long_description": "",
+      "pommel_weight": "360",
+      "pommel_total_price": "0",
+      "pommel_price": "0",
+      "pommel_vat": "0",
+      "pommel_photo": "photos/disc_one_handed.png",
+      "pommel_visualization": "visualization/vz_disc_one_handed.png",
       "label": ""
     }
   ],
