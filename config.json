@@ -288,7 +288,7 @@
       "crossguard_total_price": "0",
       "crossguard_price": "0",
       "crossguard_vat": "0",
-      "crossguard_length_compatibility": "25, 28",
+      "crossguard_length_compatibility": "25, 28, 18",
       "crossguard_photo": "photos/standard.png",
       "crossguard_visualization": "visualization/vz_standard.png",
       "label": "recommended"
