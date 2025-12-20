@@ -643,7 +643,7 @@
   "grip_finish": [
     {
       "grip_finish_id": "cord",
-      "model_id_list": "custom_feder, custom_one_handed_sword",
+      "model_id_list": "custom_feder",
       "grip_finish_name": "Cord",
       "grip_finish_description": "",
       "grip_finish_long_description": "",
@@ -737,6 +737,20 @@
       "grip_finish_vat": "6.3",
       "grip_finish_photo": "photos/ribbed_leather_rapier.png",
       "grip_finish_visualization": "visualization/vz_ribbed_leather_rapier.png",
+      "label": ""
+    },
+    {
+      "grip_finish_id": "spiral_leather_one_handed",
+      "model_id_list": "custom_one_handed_sword",
+      "grip_finish_name": "Spiral leather",
+      "grip_finish_description": "",
+      "grip_finish_long_description": "",
+      "grip_finish_color_number": "1",
+      "grip_finish_total_price": "12.1",
+      "grip_finish_price": "10",
+      "grip_finish_vat": "2.1",
+      "grip_finish_photo": "photos/spiral_leather_one_handed.png",
+      "grip_finish_visualization": "visualization/vz_spiral_leather_one_handed.png",
       "label": ""
     }
   ],
