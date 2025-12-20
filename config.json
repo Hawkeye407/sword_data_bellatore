@@ -525,7 +525,7 @@
       "grip_total_price": "0",
       "grip_price": "0",
       "grip_vat": "0",
-      "grip_photo": "photos/oval.png",
+      "grip_photo": "photos/oval_custom_rapier.png",
       "grip_visualization": "visualization/vz_oval_custom_rapier.png",
       "label": ""
     }
@@ -713,7 +713,7 @@
     },
     {
       "grip_finish_id": "ribbed_leather",
-      "model_id_list": "custom_feder, custom_rapier",
+      "model_id_list": "custom_feder",
       "grip_finish_name": "Ribbed leather",
       "grip_finish_description": "",
       "grip_finish_long_description": "",
@@ -723,6 +723,20 @@
       "grip_finish_vat": "6.3",
       "grip_finish_photo": "photos/ribbed_leather.png",
       "grip_finish_visualization": "visualization/vz_ribbed_leather.png",
+      "label": ""
+    },
+    {
+      "grip_finish_id": "ribbed_leather_rapier",
+      "model_id_list": "custom_rapier",
+      "grip_finish_name": "Ribbed leather",
+      "grip_finish_description": "",
+      "grip_finish_long_description": "",
+      "grip_finish_color_number": "1",
+      "grip_finish_total_price": "36.3",
+      "grip_finish_price": "30",
+      "grip_finish_vat": "6.3",
+      "grip_finish_photo": "photos/ribbed_leather_rapier.png",
+      "grip_finish_visualization": "visualization/vz_ribbed_leather_rapier.png",
       "label": ""
     }
   ],
@@ -919,7 +933,7 @@
       "grip_color_price": "0",
       "grip_color_vat": "0",
       "grip_color_hex": "#111111",
-      "grip_finish_compatibility": "ribbed_leather",
+      "grip_finish_compatibility": "ribbed_leather, ribbed_leather_rapier",
       "label": ""
     },
     {
@@ -932,7 +946,7 @@
       "grip_color_price": "0",
       "grip_color_vat": "0",
       "grip_color_hex": "#8B4513",
-      "grip_finish_compatibility": "ribbed_leather",
+      "grip_finish_compatibility": "ribbed_leather, ribbed_leather_rapier",
       "label": ""
     },
     {
