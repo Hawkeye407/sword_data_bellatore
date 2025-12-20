@@ -433,7 +433,7 @@
       "crossguard_finish_price": "0",
       "crossguard_finish_vat": "0",
       "crossguard_finish_hex": "",
-      "crossguard_compatibility": "standard, cylindrical",
+      "crossguard_compatibility": "standard, cylindrical, standard_one_handed, rapier_spain",
       "label": ""
     },
     {
