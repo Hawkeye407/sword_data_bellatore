@@ -5,12 +5,8 @@
       "model_name": "Custom Feder",
       "blade_geometry": "feder_geometry",
       "model_description": "Various forms and characteristics. Build your own feder from a vast variety of custom parts and customize it to perfectly match your style and gear. We recommend this product to those fencers or clubs whose knowledge is a bit more mature and who know exactly what they are looking for.",
-      "model_long_description": "",
-      "model_total_price": "266.2",
       "model_price": "220",
-      "model_vat": "46.199999999999996",
-      "model_photo": "photos/custom_feder.png",
-      "model_visualization": "",
+      "model_photo": "photos/custom_feder",
       "label": ""
     },
     {
@@ -18,12 +14,8 @@
       "model_name": "Custom one handed sword",
       "blade_geometry": "one_handed_geometry",
       "model_description": "",
-      "model_long_description": "",
-      "model_total_price": "363",
       "model_price": "300",
-      "model_vat": "63",
-      "model_photo": "photos/custom_one_handed_sword.png",
-      "model_visualization": "",
+      "model_photo": "photos/custom_one_handed_sword",
       "label": ""
     },
     {
@@ -31,12 +23,8 @@
       "model_name": "Custom Rapier",
       "blade_geometry": "rapier_geometry",
       "model_description": "",
-      "model_long_description": "",
-      "model_total_price": "363",
       "model_price": "300",
-      "model_vat": "63",
-      "model_photo": "photos/custom_rapier.png",
-      "model_visualization": "",
+      "model_photo": "photos/custom_rapier",
       "label": ""
     }
   ],
@@ -224,12 +212,9 @@
       "model_id_list": "custom_feder, custom_one_handed_sword, custom_rapier",
       "tip_name": "Back-Folded Tip",
       "tip_description": "To this day, we consider this to be the safest type of tip. As far as we know, it is accepted in all tournament.",
-      "tip_long_desctiption": "",
-      "tip_total_price": "0",
       "tip_price": "0",
-      "tip_vat": "0",
-      "tip_photo": "photos/back_folded_tip.png",
-      "tip_visualization": "visualization/vz_back_folded_tip.png",
+      "tip_photo": "photos/back_folded_tip",
+      "tip_visualization": "visualization/vz_back_folded_tip",
       "label": ""
     },
     {
@@ -237,12 +222,9 @@
       "model_id_list": "custom_feder, custom_one_handed_sword, custom_rapier",
       "tip_name": "Rounded Tip",
       "tip_description": "The tip of the feder is simply rounded. Needs additional protection to use in free sparring. Not suitable for tournaments.",
-      "tip_long_desctiption": "",
-      "tip_total_price": "0",
       "tip_price": "0",
-      "tip_vat": "0",
-      "tip_photo": "photos/rounded_tip.png",
-      "tip_visualization": "visualization/vz_rounded_tip.png",
+      "tip_photo": "photos/rounded_tip",
+      "tip_visualization": "visualization/vz_rounded_tip",
       "label": ""
     },
     {
@@ -250,12 +232,9 @@
       "model_id_list": "custom_feder, custom_one_handed_sword, custom_rapier",
       "tip_name": "Spatulated Tip",
       "tip_description": "New generation tip, opinions are divided, we only recommend it to those who know what they are looking for. Its acceptance in tournaments varies.",
-      "tip_long_desctiption": "",
-      "tip_total_price": "0",
       "tip_price": "0",
-      "tip_vat": "0",
-      "tip_photo": "photos/spatulated_tip.png",
-      "tip_visualization": "visualization/vz_spatulated_tip.png",
+      "tip_photo": "photos/spatulated_tip",
+      "tip_visualization": "visualization/vz_spatulated_tip",
       "label": "recommended"
     }
   ],
@@ -265,12 +244,9 @@
       "model_id_list": "custom_feder",
       "schilt_name": "Wide",
       "schilt_description": "Our “Wide Feder” builds on the trusted foundation of our standard federschwerts, featuring a broader schilt designed with tournament performance in mind.",
-      "schilt_long_descschilttion": "",
-      "schilt_total_price": "0",
       "schilt_price": "0",
-      "schilt_vat": "0",
-      "schilt_photo": "photos/wide.png",
-      "schilt_visualization": "visualization/vz_wide.png",
+      "schilt_photo": "photos/wide",
+      "schilt_visualization": "visualization/vz_wide",
       "label": "recommended"
     },
     {
@@ -278,12 +254,9 @@
       "model_id_list": "custom_feder",
       "schilt_name": "Italian",
       "schilt_description": "Our “Italian Feder” combines the trusted handling and durability of our federschwerts with a schilt design inspired by the graceful forms of Italian swords.",
-      "schilt_long_descschilttion": "",
-      "schilt_total_price": "0",
       "schilt_price": "0",
-      "schilt_vat": "0",
-      "schilt_photo": "photos/italian.png",
-      "schilt_visualization": "visualization/vz_italian.png",
+      "schilt_photo": "photos/italian",
+      "schilt_visualization": "visualization/vz_italian",
       "label": ""
     },
     {
@@ -291,12 +264,9 @@
       "model_id_list": "custom_feder",
       "schilt_name": "Spiky",
       "schilt_description": "Our Custom Spiky Feder takes the proven reliability of our Standard Feder and pairs it with a high level of personalization to suit your exact fencing preferences.",
-      "schilt_long_descschilttion": "",
-      "schilt_total_price": "0",
       "schilt_price": "0",
-      "schilt_vat": "0",
-      "schilt_photo": "photos/spiky.png",
-      "schilt_visualization": "visualization/vz_spiky.png",
+      "schilt_photo": "photos/spiky",
+      "schilt_visualization": "visualization/vz_spiky",
       "label": ""
     },
     {
@@ -304,12 +274,9 @@
       "model_id_list": "custom_feder",
       "schilt_name": "Schiltless",
       "schilt_description": "Our schiltless Feder is designed for fencers who prefer a cleaner, more minimalist blade profile — one that reflects earlier longsword forms and traditions.",
-      "schilt_long_descschilttion": "",
-      "schilt_total_price": "0",
       "schilt_price": "0",
-      "schilt_vat": "0",
-      "schilt_photo": "photos/schiltless.png",
-      "schilt_visualization": "visualization/vz_schiltless.png",
+      "schilt_photo": "photos/schiltless",
+      "schilt_visualization": "visualization/vz_schiltless",
       "label": ""
     }
   ],
@@ -319,13 +286,10 @@
       "model_id_list": "custom_feder",
       "crossguard_name": "Standard",
       "crossguard_description": "",
-      "crossguard_long_description": "",
-      "crossguard_total_price": "0",
       "crossguard_price": "0",
-      "crossguard_vat": "0",
       "crossguard_length_compatibility": "25, 28, 18",
-      "crossguard_photo": "photos/standard.png",
-      "crossguard_visualization": "visualization/vz_standard.png",
+      "crossguard_photo": "photos/standard",
+      "crossguard_visualization": "visualization/vz_standard",
       "label": "recommended"
     },
     {
@@ -333,13 +297,10 @@
       "model_id_list": "custom_feder",
       "crossguard_name": "Twisted",
       "crossguard_description": "",
-      "crossguard_long_description": "",
-      "crossguard_total_price": "18.15",
       "crossguard_price": "15",
-      "crossguard_vat": "3.15",
       "crossguard_length_compatibility": "25, 28",
-      "crossguard_photo": "photos/twisted.png",
-      "crossguard_visualization": "visualization/vz_twisted.png",
+      "crossguard_photo": "photos/twisted",
+      "crossguard_visualization": "visualization/vz_twisted",
       "label": ""
     },
     {
@@ -347,13 +308,10 @@
       "model_id_list": "custom_feder",
       "crossguard_name": "Waved",
       "crossguard_description": "",
-      "crossguard_long_description": "",
-      "crossguard_total_price": "18.15",
       "crossguard_price": "15",
-      "crossguard_vat": "3.15",
       "crossguard_length_compatibility": "25, 28",
-      "crossguard_photo": "photos/waved.png",
-      "crossguard_visualization": "visualization/vz_waved.png",
+      "crossguard_photo": "photos/waved",
+      "crossguard_visualization": "visualization/vz_waved",
       "label": ""
     },
     {
@@ -361,13 +319,10 @@
       "model_id_list": "custom_feder",
       "crossguard_name": "Cylindrical",
       "crossguard_description": "",
-      "crossguard_long_description": "",
-      "crossguard_total_price": "48.4",
       "crossguard_price": "40",
-      "crossguard_vat": "8.4",
       "crossguard_length_compatibility": "25, 28",
-      "crossguard_photo": "photos/cylindrical.png",
-      "crossguard_visualization": "visualization/vz_cylindrical.png",
+      "crossguard_photo": "photos/cylindrical",
+      "crossguard_visualization": "visualization/vz_cylindrical",
       "label": ""
     },
     {
@@ -375,13 +330,10 @@
       "model_id_list": "custom_one_handed_sword",
       "crossguard_name": "Standard",
       "crossguard_description": "",
-      "crossguard_long_description": "",
-      "crossguard_total_price": "0",
       "crossguard_price": "0",
-      "crossguard_vat": "0",
       "crossguard_length_compatibility": "25, 28, 18",
-      "crossguard_photo": "photos/standard_one_handed.png",
-      "crossguard_visualization": "visualization/vz_standard_one_handed.png",
+      "crossguard_photo": "photos/standard_one_handed",
+      "crossguard_visualization": "visualization/vz_standard_one_handed",
       "label": "recommended"
     },
     {
@@ -389,13 +341,10 @@
       "model_id_list": "custom_rapier",
       "crossguard_name": "Spain cup-hilt",
       "crossguard_description": "",
-      "crossguard_long_description": "",
-      "crossguard_total_price": "48.4",
       "crossguard_price": "40",
-      "crossguard_vat": "8.4",
       "crossguard_length_compatibility": "28",
-      "crossguard_photo": "photos/rapier_spain.png",
-      "crossguard_visualization": "visualization/vz_rapier_spain.png",
+      "crossguard_photo": "photos/rapier_spain",
+      "crossguard_visualization": "visualization/vz_rapier_spain",
       "label": ""
     }
   ],
@@ -427,40 +376,25 @@
       "crossguard_finish_id": "polished",
       "model_id_list": "custom_feder, custom_one_handed_sword, custom_rapier",
       "crossguard_finish_name": "Polished",
-      "crossguard_finish_description": "",
-      "crossguard_finish_long_description": "",
-      "crossguard_finish_total_price": "0",
       "crossguard_finish_price": "0",
-      "crossguard_finish_vat": "0",
       "crossguard_finish_hex": "",
-      "crossguard_compatibility": "standard, cylindrical, standard_one_handed, rapier_spain",
-      "label": ""
+      "crossguard_compatibility": "standard, cylindrical, standard_one_handed, rapier_spain"
     },
     {
       "crossguard_finish_id": "dark",
       "model_id_list": "custom_feder",
       "crossguard_finish_name": "Dark",
-      "crossguard_finish_description": "",
-      "crossguard_finish_long_description": "",
-      "crossguard_finish_total_price": "18.15",
       "crossguard_finish_price": "15",
-      "crossguard_finish_vat": "3.15",
       "crossguard_finish_hex": "#333333",
-      "crossguard_compatibility": "twisted, waved",
-      "label": ""
+      "crossguard_compatibility": "twisted, waved"
     },
     {
       "crossguard_finish_id": "black",
       "model_id_list": "custom_feder",
       "crossguard_finish_name": "Black",
-      "crossguard_finish_description": "",
-      "crossguard_finish_long_description": "",
-      "crossguard_finish_total_price": "30.25",
       "crossguard_finish_price": "25",
-      "crossguard_finish_vat": "5.25",
       "crossguard_finish_hex": "#000000",
-      "crossguard_compatibility": "standard, cylindrical, twisted, waved",
-      "label": ""
+      "crossguard_compatibility": "standard, cylindrical, twisted, waved"
     }
   ],
   "grip": [
@@ -469,10 +403,7 @@
       "model_id_list": "custom_feder",
       "grip_name": "Oval",
       "grip_description": "",
-      "grip_long_description": "",
-      "grip_total_price": "0",
       "grip_price": "0",
-      "grip_vat": "0",
       "grip_photo": "photos/oval.png",
       "grip_visualization": "visualization/vz_oval.png",
       "label": ""
@@ -482,10 +413,7 @@
       "model_id_list": "custom_feder",
       "grip_name": "Octagonal Waisted",
       "grip_description": "",
-      "grip_long_description": "",
-      "grip_total_price": "12.1",
       "grip_price": "10",
-      "grip_vat": "2.1",
       "grip_photo": "photos/octagonal_waisted.png",
       "grip_visualization": "visualization/vz_octagonal_waisted.png",
       "label": "recommended"
@@ -495,10 +423,7 @@
       "model_id_list": "custom_feder",
       "grip_name": "Rectangle Waisted",
       "grip_description": "",
-      "grip_long_description": "",
-      "grip_total_price": "12.1",
       "grip_price": "10",
-      "grip_vat": "2.1",
       "grip_photo": "photos/rectangle_waisted.png",
       "grip_visualization": "visualization/vz_rectangle_waisted.png",
       "label": ""
@@ -508,10 +433,7 @@
       "model_id_list": "custom_one_handed_sword",
       "grip_name": "Oval",
       "grip_description": "",
-      "grip_long_description": "",
-      "grip_total_price": "0",
       "grip_price": "0",
-      "grip_vat": "0",
       "grip_photo": "photos/oval_one_handed.png",
       "grip_visualization": "visualization/vz_oval_one_handed.png",
       "label": ""
@@ -521,10 +443,7 @@
       "model_id_list": "custom_rapier",
       "grip_name": "Oval",
       "grip_description": "",
-      "grip_long_description": "",
-      "grip_total_price": "0",
       "grip_price": "0",
-      "grip_vat": "0",
       "grip_photo": "photos/oval_custom_rapier.png",
       "grip_visualization": "visualization/vz_oval_custom_rapier.png",
       "label": ""
@@ -646,13 +565,9 @@
       "model_id_list": "custom_feder",
       "grip_finish_name": "Cord",
       "grip_finish_description": "",
-      "grip_finish_long_description": "",
       "grip_finish_color_number": "1",
-      "grip_finish_total_price": "0",
       "grip_finish_price": "0",
-      "grip_finish_vat": "0",
       "grip_finish_photo": "photos/cord.png",
-      "grip_finish_visualization": "visualization/vz_cord.png",
       "label": ""
     },
     {
@@ -660,13 +575,9 @@
       "model_id_list": "custom_feder",
       "grip_finish_name": "Double cord",
       "grip_finish_description": "",
-      "grip_finish_long_description": "",
       "grip_finish_color_number": "2",
-      "grip_finish_total_price": "6.05",
       "grip_finish_price": "5",
-      "grip_finish_vat": "1.05",
       "grip_finish_photo": "photos/double_cord.png",
-      "grip_finish_visualization": "visualization/vz_double_cord.png",
       "label": ""
     },
     {
@@ -674,13 +585,9 @@
       "model_id_list": "custom_feder",
       "grip_finish_name": "Spiral leather",
       "grip_finish_description": "",
-      "grip_finish_long_description": "",
       "grip_finish_color_number": "1",
-      "grip_finish_total_price": "12.1",
       "grip_finish_price": "10",
-      "grip_finish_vat": "2.1",
       "grip_finish_photo": "photos/spiral_leather.png",
-      "grip_finish_visualization": "visualization/vz_spiral_leather.png",
       "label": ""
     },
     {
@@ -688,13 +595,9 @@
       "model_id_list": "custom_feder",
       "grip_finish_name": "Double spiral leather",
       "grip_finish_description": "",
-      "grip_finish_long_description": "",
       "grip_finish_color_number": "2",
-      "grip_finish_total_price": "30.25",
       "grip_finish_price": "25",
-      "grip_finish_vat": "5.25",
       "grip_finish_photo": "photos/double_spiral_leather.png",
-      "grip_finish_visualization": "visualization/vz_double_spiral_leather.png",
       "label": ""
     },
     {
@@ -702,13 +605,9 @@
       "model_id_list": "custom_feder",
       "grip_finish_name": "Wired leather",
       "grip_finish_description": "",
-      "grip_finish_long_description": "",
       "grip_finish_color_number": "1",
-      "grip_finish_total_price": "30.25",
       "grip_finish_price": "25",
-      "grip_finish_vat": "5.25",
       "grip_finish_photo": "photos/wired_leather.png",
-      "grip_finish_visualization": "visualization/vz_wired_leather.png",
       "label": ""
     },
     {
@@ -716,13 +615,9 @@
       "model_id_list": "custom_feder",
       "grip_finish_name": "Ribbed leather",
       "grip_finish_description": "",
-      "grip_finish_long_description": "",
       "grip_finish_color_number": "1",
-      "grip_finish_total_price": "36.3",
       "grip_finish_price": "30",
-      "grip_finish_vat": "6.3",
       "grip_finish_photo": "photos/ribbed_leather.png",
-      "grip_finish_visualization": "visualization/vz_ribbed_leather.png",
       "label": ""
     },
     {
@@ -730,13 +625,9 @@
       "model_id_list": "custom_rapier",
       "grip_finish_name": "Ribbed leather",
       "grip_finish_description": "",
-      "grip_finish_long_description": "",
       "grip_finish_color_number": "1",
-      "grip_finish_total_price": "36.3",
       "grip_finish_price": "30",
-      "grip_finish_vat": "6.3",
       "grip_finish_photo": "photos/ribbed_leather_rapier.png",
-      "grip_finish_visualization": "visualization/vz_ribbed_leather_rapier.png",
       "label": ""
     },
     {
@@ -744,13 +635,9 @@
       "model_id_list": "custom_one_handed_sword",
       "grip_finish_name": "Spiral leather",
       "grip_finish_description": "",
-      "grip_finish_long_description": "",
       "grip_finish_color_number": "1",
-      "grip_finish_total_price": "12.1",
       "grip_finish_price": "10",
-      "grip_finish_vat": "2.1",
       "grip_finish_photo": "photos/spiral_leather_one_handed.png",
-      "grip_finish_visualization": "visualization/vz_spiral_leather_one_handed.png",
       "label": ""
     }
   ],
@@ -759,274 +646,169 @@
       "grip_color_id": "black",
       "model_id_list": "custom_feder, custom_one_handed_sword",
       "grip_color_name": "Black",
-      "grip_color_description": "",
-      "grip_color_long_description": "",
-      "grip_color_total_price": "0",
       "grip_color_price": "0",
-      "grip_color_vat": "0",
       "grip_color_hex": "#000000",
-      "grip_finish_compatibility": "cord, double_cord",
-      "label": ""
+      "grip_finish_compatibility": "cord, double_cord"
     },
     {
       "grip_color_id": "natural",
       "model_id_list": "custom_feder, custom_one_handed_sword",
       "grip_color_name": "Natural",
-      "grip_color_description": "",
-      "grip_color_long_description": "",
-      "grip_color_total_price": "6.05",
       "grip_color_price": "5",
-      "grip_color_vat": "1.05",
       "grip_color_hex": "#F5F5DC",
-      "grip_finish_compatibility": "cord, double_cord",
-      "label": ""
+      "grip_finish_compatibility": "cord, double_cord"
     },
     {
       "grip_color_id": "dark_brown",
       "model_id_list": "custom_feder, custom_one_handed_sword",
       "grip_color_name": "Dark Brown",
-      "grip_color_description": "",
-      "grip_color_long_description": "",
-      "grip_color_total_price": "6.05",
       "grip_color_price": "5",
-      "grip_color_vat": "1.05",
       "grip_color_hex": "#4B2E2A",
-      "grip_finish_compatibility": "cord, double_cord",
-      "label": ""
+      "grip_finish_compatibility": "cord, double_cord"
     },
     {
       "grip_color_id": "light_brown",
       "model_id_list": "custom_feder, custom_one_handed_sword",
       "grip_color_name": "Light Brown",
-      "grip_color_description": "",
-      "grip_color_long_description": "",
-      "grip_color_total_price": "6.05",
       "grip_color_price": "5",
-      "grip_color_vat": "1.05",
       "grip_color_hex": "#C1916B",
-      "grip_finish_compatibility": "cord, double_cord",
-      "label": ""
+      "grip_finish_compatibility": "cord, double_cord"
     },
     {
       "grip_color_id": "dark_gray",
       "model_id_list": "custom_feder, custom_one_handed_sword",
       "grip_color_name": "Dark Gray",
-      "grip_color_description": "",
-      "grip_color_long_description": "",
-      "grip_color_total_price": "6.05",
       "grip_color_price": "5",
-      "grip_color_vat": "1.05",
       "grip_color_hex": "#4A4A4A",
-      "grip_finish_compatibility": "cord, double_cord",
-      "label": ""
+      "grip_finish_compatibility": "cord, double_cord"
     },
     {
       "grip_color_id": "light_gray",
       "model_id_list": "custom_feder, custom_one_handed_sword",
       "grip_color_name": "Light Gray",
-      "grip_color_description": "",
-      "grip_color_long_description": "",
-      "grip_color_total_price": "6.05",
       "grip_color_price": "5",
-      "grip_color_vat": "1.05",
       "grip_color_hex": "#D3D3D3",
-      "grip_finish_compatibility": "cord, double_cord",
-      "label": ""
+      "grip_finish_compatibility": "cord, double_cord"
     },
     {
       "grip_color_id": "dark_blue",
       "model_id_list": "custom_feder, custom_one_handed_sword",
       "grip_color_name": "Dark Blue",
-      "grip_color_description": "",
-      "grip_color_long_description": "",
-      "grip_color_total_price": "6.05",
       "grip_color_price": "5",
-      "grip_color_vat": "1.05",
       "grip_color_hex": "#00008B",
-      "grip_finish_compatibility": "cord, double_cord",
-      "label": ""
+      "grip_finish_compatibility": "cord, double_cord"
     },
     {
       "grip_color_id": "light_blue",
       "model_id_list": "custom_feder, custom_one_handed_sword",
       "grip_color_name": "Light Blue",
-      "grip_color_description": "",
-      "grip_color_long_description": "",
-      "grip_color_total_price": "6.05",
       "grip_color_price": "5",
-      "grip_color_vat": "1.05",
       "grip_color_hex": "#ADD8E6",
-      "grip_finish_compatibility": "cord, double_cord",
-      "label": ""
+      "grip_finish_compatibility": "cord, double_cord"
     },
     {
       "grip_color_id": "purple",
       "model_id_list": "custom_feder, custom_one_handed_sword",
       "grip_color_name": "Purple",
-      "grip_color_description": "",
-      "grip_color_long_description": "",
-      "grip_color_total_price": "6.05",
       "grip_color_price": "5",
-      "grip_color_vat": "1.05",
       "grip_color_hex": "#800080",
-      "grip_finish_compatibility": "cord, double_cord",
-      "label": ""
+      "grip_finish_compatibility": "cord, double_cord"
     },
     {
       "grip_color_id": "pink",
       "model_id_list": "custom_feder, custom_one_handed_sword",
       "grip_color_name": "Pink",
-      "grip_color_description": "",
-      "grip_color_long_description": "",
-      "grip_color_total_price": "6.05",
       "grip_color_price": "5",
-      "grip_color_vat": "1.05",
       "grip_color_hex": "#FFC0CB",
-      "grip_finish_compatibility": "cord, double_cord",
-      "label": ""
+      "grip_finish_compatibility": "cord, double_cord"
     },
     {
       "grip_color_id": "burgundy",
       "model_id_list": "custom_feder, custom_one_handed_sword",
       "grip_color_name": "Burgundy",
-      "grip_color_description": "",
-      "grip_color_long_description": "",
-      "grip_color_total_price": "6.05",
       "grip_color_price": "5",
-      "grip_color_vat": "1.05",
       "grip_color_hex": "#800020",
-      "grip_finish_compatibility": "cord, double_cord",
-      "label": ""
+      "grip_finish_compatibility": "cord, double_cord"
     },
     {
       "grip_color_id": "red",
       "model_id_list": "custom_feder, custom_one_handed_sword",
       "grip_color_name": "Red",
-      "grip_color_description": "",
-      "grip_color_long_description": "",
-      "grip_color_total_price": "6.05",
       "grip_color_price": "5",
-      "grip_color_vat": "1.05",
       "grip_color_hex": "#FF0000",
-      "grip_finish_compatibility": "cord, double_cord",
-      "label": ""
+      "grip_finish_compatibility": "cord, double_cord"
     },
     {
       "grip_color_id": "orange",
       "model_id_list": "custom_feder, custom_one_handed_sword",
       "grip_color_name": "Orange",
-      "grip_color_description": "",
-      "grip_color_long_description": "",
-      "grip_color_total_price": "6.05",
       "grip_color_price": "5",
-      "grip_color_vat": "1.05",
       "grip_color_hex": "#FFA500",
-      "grip_finish_compatibility": "cord, double_cord",
-      "label": ""
+      "grip_finish_compatibility": "cord, double_cord"
     },
     {
       "grip_color_id": "yellow",
       "model_id_list": "custom_feder, custom_one_handed_sword",
       "grip_color_name": "Yellow",
-      "grip_color_description": "",
-      "grip_color_long_description": "",
-      "grip_color_total_price": "6.05",
       "grip_color_price": "5",
-      "grip_color_vat": "1.05",
       "grip_color_hex": "#FFFF00",
-      "grip_finish_compatibility": "cord, double_cord",
-      "label": ""
+      "grip_finish_compatibility": "cord, double_cord"
     },
     {
       "grip_color_id": "black_leather_ribbed",
       "model_id_list": "custom_feder, custom_one_handed_sword, custom_rapier",
       "grip_color_name": "Black leather",
-      "grip_color_description": "",
-      "grip_color_long_description": "",
-      "grip_color_total_price": "0",
       "grip_color_price": "0",
-      "grip_color_vat": "0",
       "grip_color_hex": "#111111",
-      "grip_finish_compatibility": "ribbed_leather, ribbed_leather_rapier",
-      "label": ""
+      "grip_finish_compatibility": "ribbed_leather, ribbed_leather_rapier"
     },
     {
       "grip_color_id": "brown_leather_ribbed",
       "model_id_list": "custom_feder, custom_one_handed_sword, custom_rapier",
       "grip_color_name": "Brown leather",
-      "grip_color_description": "",
-      "grip_color_long_description": "",
-      "grip_color_total_price": "0",
       "grip_color_price": "0",
-      "grip_color_vat": "0",
       "grip_color_hex": "#8B4513",
-      "grip_finish_compatibility": "ribbed_leather, ribbed_leather_rapier",
-      "label": ""
+      "grip_finish_compatibility": "ribbed_leather, ribbed_leather_rapier"
     },
     {
       "grip_color_id": "black_leather",
       "model_id_list": "custom_feder, custom_one_handed_sword",
       "grip_color_name": "Black leather",
-      "grip_color_description": "",
-      "grip_color_long_description": "",
-      "grip_color_total_price": "12.1",
       "grip_color_price": "10",
-      "grip_color_vat": "2.1",
       "grip_color_hex": "#111111",
-      "grip_finish_compatibility": "spiral_leather, double_spiral_leather, wired_leather",
-      "label": ""
+      "grip_finish_compatibility": "spiral_leather, double_spiral_leather, wired_leather"
     },
     {
       "grip_color_id": "brown_leather",
       "model_id_list": "custom_feder, custom_one_handed_sword",
       "grip_color_name": "Brown leather",
-      "grip_color_description": "",
-      "grip_color_long_description": "",
-      "grip_color_total_price": "12.1",
       "grip_color_price": "10",
-      "grip_color_vat": "2.1",
       "grip_color_hex": "#8B4513",
-      "grip_finish_compatibility": "spiral_leather, double_spiral_leather, wired_leather",
-      "label": ""
+      "grip_finish_compatibility": "spiral_leather, double_spiral_leather, wired_leather"
     },
     {
       "grip_color_id": "blue_leather",
       "model_id_list": "custom_feder, custom_one_handed_sword",
       "grip_color_name": "Blue leather",
-      "grip_color_description": "",
-      "grip_color_long_description": "",
-      "grip_color_total_price": "18.15",
       "grip_color_price": "15",
-      "grip_color_vat": "3.15",
       "grip_color_hex": "#003366",
-      "grip_finish_compatibility": "spiral_leather, double_spiral_leather, wired_leather",
-      "label": ""
+      "grip_finish_compatibility": "spiral_leather, double_spiral_leather, wired_leather"
     },
     {
       "grip_color_id": "red_leather",
       "model_id_list": "custom_feder, custom_one_handed_sword",
       "grip_color_name": "Red leather",
-      "grip_color_description": "",
-      "grip_color_long_description": "",
-      "grip_color_total_price": "18.15",
       "grip_color_price": "15",
-      "grip_color_vat": "3.15",
       "grip_color_hex": "#8B0000",
-      "grip_finish_compatibility": "spiral_leather, double_spiral_leather, wired_leather",
-      "label": ""
+      "grip_finish_compatibility": "spiral_leather, double_spiral_leather, wired_leather"
     },
     {
       "grip_color_id": "green_leather",
       "model_id_list": "custom_feder, custom_one_handed_sword",
       "grip_color_name": "Green leather",
-      "grip_color_description": "",
-      "grip_color_long_description": "",
-      "grip_color_total_price": "18.15",
       "grip_color_price": "15",
-      "grip_color_vat": "3.15",
       "grip_color_hex": "#006400",
-      "grip_finish_compatibility": "spiral_leather, double_spiral_leather, wired_leather",
-      "label": ""
+      "grip_finish_compatibility": "spiral_leather, double_spiral_leather, wired_leather"
     }
   ],
   "pommel": [
@@ -1035,11 +817,8 @@
       "model_id_list": "custom_feder",
       "pommel_name": "Pear",
       "pommel_description": "",
-      "pommel_long_description": "",
       "pommel_weight": "360",
-      "pommel_total_price": "0",
       "pommel_price": "0",
-      "pommel_vat": "0",
       "pommel_photo": "photos/pear.png",
       "pommel_visualization": "visualization/vz_pear.png",
       "label": ""
@@ -1049,11 +828,8 @@
       "model_id_list": "custom_feder",
       "pommel_name": "Mushroom",
       "pommel_description": "",
-      "pommel_long_description": "",
       "pommel_weight": "360",
-      "pommel_total_price": "0",
       "pommel_price": "0",
-      "pommel_vat": "0",
       "pommel_photo": "photos/mushroom.png",
       "pommel_visualization": "visualization/vz_mushroom.png",
       "label": ""
@@ -1063,11 +839,8 @@
       "model_id_list": "custom_feder",
       "pommel_name": "Sphere",
       "pommel_description": "",
-      "pommel_long_description": "",
       "pommel_weight": "360",
-      "pommel_total_price": "6.05",
       "pommel_price": "5",
-      "pommel_vat": "1.05",
       "pommel_photo": "photos/sphere.png",
       "pommel_visualization": "visualization/vz_sphere.png",
       "label": ""
@@ -1077,11 +850,8 @@
       "model_id_list": "custom_feder",
       "pommel_name": "Slim Pear",
       "pommel_description": "",
-      "pommel_long_description": "",
       "pommel_weight": "360",
-      "pommel_total_price": "6.05",
       "pommel_price": "5",
-      "pommel_vat": "1.05",
       "pommel_photo": "photos/slim_pear.png",
       "pommel_visualization": "visualization/vz_slim_pear.png",
       "label": ""
@@ -1091,11 +861,8 @@
       "model_id_list": "custom_feder",
       "pommel_name": "Parfume",
       "pommel_description": "",
-      "pommel_long_description": "",
       "pommel_weight": "360",
-      "pommel_total_price": "24.2",
       "pommel_price": "20",
-      "pommel_vat": "4.2",
       "pommel_photo": "photos/parfume.png",
       "pommel_visualization": "visualization/vz_parfume.png",
       "label": "recommended"
@@ -1105,11 +872,8 @@
       "model_id_list": "custom_feder",
       "pommel_name": "Faceted Mushroom",
       "pommel_description": "",
-      "pommel_long_description": "",
       "pommel_weight": "360",
-      "pommel_total_price": "42.35",
       "pommel_price": "35",
-      "pommel_vat": "7.35",
       "pommel_photo": "photos/faceted_mushroom.png",
       "pommel_visualization": "visualization/vz_faceted_mushroom.png",
       "label": ""
@@ -1119,11 +883,8 @@
       "model_id_list": "custom_feder",
       "pommel_name": "Faceted Pear",
       "pommel_description": "",
-      "pommel_long_description": "",
       "pommel_weight": "360",
-      "pommel_total_price": "42.35",
       "pommel_price": "35",
-      "pommel_vat": "7.35",
       "pommel_photo": "photos/faceted_pear.png",
       "pommel_visualization": "visualization/vz_faceted_pear.png",
       "label": ""
@@ -1133,11 +894,8 @@
       "model_id_list": "custom_one_handed_sword",
       "pommel_name": "",
       "pommel_description": "",
-      "pommel_long_description": "",
       "pommel_weight": "360",
-      "pommel_total_price": "0",
       "pommel_price": "0",
-      "pommel_vat": "0",
       "pommel_photo": "photos/disc_one_handed.png",
       "pommel_visualization": "visualization/vz_disc_one_handed.png",
       "label": ""
@@ -1147,11 +905,8 @@
       "model_id_list": "custom_rapier",
       "pommel_name": "Rapier pommel",
       "pommel_description": "",
-      "pommel_long_description": "",
       "pommel_weight": "360",
-      "pommel_total_price": "0",
       "pommel_price": "0",
-      "pommel_vat": "0",
       "pommel_photo": "photos/custom_rapier_pommel.png",
       "pommel_visualization": "visualization/vz_custom_rapier_pommel.png",
       "label": ""
@@ -1162,37 +917,148 @@
       "pommel_finish_id": "polished",
       "model_id_list": "custom_feder, custom_one_handed_sword, custom_rapier",
       "pommel_finish_name": "Polished",
-      "pommel_finish_description": "",
-      "pommel_finish_long_description": "",
-      "pommel_finish_total_price": "0",
       "pommel_finish_price": "0",
-      "pommel_finish_vat": "0",
-      "pommel_finish_hex": "",
-      "label": ""
+      "pommel_finish_hex": ""
     },
     {
       "pommel_finish_id": "burnt",
       "model_id_list": "custom_feder",
       "pommel_finish_name": "Burnt",
-      "pommel_finish_description": "",
-      "pommel_finish_long_description": "",
-      "pommel_finish_total_price": "12.1",
       "pommel_finish_price": "10",
-      "pommel_finish_vat": "2.1",
-      "pommel_finish_hex": "#333333",
-      "label": ""
+      "pommel_finish_hex": "#333333"
     },
     {
       "pommel_finish_id": "black",
       "model_id_list": "custom_feder",
       "pommel_finish_name": "Black",
-      "pommel_finish_description": "",
-      "pommel_finish_long_description": "",
-      "pommel_finish_total_price": "24.2",
       "pommel_finish_price": "20",
-      "pommel_finish_vat": "4.2",
-      "pommel_finish_hex": "#000000",
-      "label": ""
+      "pommel_finish_hex": "#000000"
+    }
+  ],
+  "vat": [
+    {
+      "country": "AT",
+      "vat": "1.2"
+    },
+    {
+      "country": "BE",
+      "vat": "1.21"
+    },
+    {
+      "country": "BG",
+      "vat": "1.2"
+    },
+    {
+      "country": "HR",
+      "vat": "1.25"
+    },
+    {
+      "country": "CY",
+      "vat": "1.19"
+    },
+    {
+      "country": "CZ",
+      "vat": "1.21"
+    },
+    {
+      "country": "DK",
+      "vat": "1.25"
+    },
+    {
+      "country": "EE",
+      "vat": "1.24"
+    },
+    {
+      "country": "FI",
+      "vat": "1.255"
+    },
+    {
+      "country": "FR",
+      "vat": "1.2"
+    },
+    {
+      "country": "DE",
+      "vat": "1.19"
+    },
+    {
+      "country": "GR",
+      "vat": "1.24"
+    },
+    {
+      "country": "HU",
+      "vat": "1.27"
+    },
+    {
+      "country": "IE",
+      "vat": "1.23"
+    },
+    {
+      "country": "IT",
+      "vat": "1.22"
+    },
+    {
+      "country": "LV",
+      "vat": "1.21"
+    },
+    {
+      "country": "LT",
+      "vat": "1.21"
+    },
+    {
+      "country": "LU",
+      "vat": "1.17"
+    },
+    {
+      "country": "MT",
+      "vat": "1.18"
+    },
+    {
+      "country": "NL",
+      "vat": "1.21"
+    },
+    {
+      "country": "PL",
+      "vat": "1.23"
+    },
+    {
+      "country": "PT",
+      "vat": "1.23"
+    },
+    {
+      "country": "RO",
+      "vat": "1.19"
+    },
+    {
+      "country": "SK",
+      "vat": "1.23"
+    },
+    {
+      "country": "SI",
+      "vat": "1.22"
+    },
+    {
+      "country": "ES",
+      "vat": "1.21"
+    },
+    {
+      "country": "SE",
+      "vat": "1.25"
+    },
+    {
+      "country": "GB",
+      "vat": "1.2"
+    },
+    {
+      "country": "NO",
+      "vat": "1.25"
+    },
+    {
+      "country": "CH",
+      "vat": "1.081"
+    },
+    {
+      "country": "IS",
+      "vat": "1.24"
     }
   ]
 }
