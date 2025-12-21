@@ -38,7 +38,7 @@
       "name": "83",
       "size": "83",
       "label": "",
-      "tip_id_list": "back_folded_tip, rounded_tip,spatulated_tip"
+      "blade_tip_id_list": "back_folded_tip, rounded_tip,spatulated_tip"
     },
     {
       "id": "90",
@@ -46,7 +46,7 @@
       "name": "90",
       "size": "90",
       "label": "",
-      "tip_id_list": "back_folded_tip, rounded_tip"
+      "blade_tip_id_list": "back_folded_tip, rounded_tip"
     },
     {
       "id": "91",
@@ -54,7 +54,7 @@
       "name": "91",
       "size": "91",
       "label": "",
-      "tip_id_list": "back_folded_tip, rounded_tip"
+      "blade_tip_id_list": "back_folded_tip, rounded_tip"
     },
     {
       "id": "92",
@@ -62,7 +62,7 @@
       "name": "92",
       "size": "92",
       "label": "",
-      "tip_id_list": "back_folded_tip, rounded_tip"
+      "blade_tip_id_list": "back_folded_tip, rounded_tip"
     },
     {
       "id": "93",
@@ -70,7 +70,7 @@
       "name": "93",
       "size": "93",
       "label": "",
-      "tip_id_list": "back_folded_tip, rounded_tip"
+      "blade_tip_id_list": "back_folded_tip, rounded_tip"
     },
     {
       "id": "94",
@@ -78,7 +78,7 @@
       "name": "94",
       "size": "94",
       "label": "",
-      "tip_id_list": "back_folded_tip, rounded_tip"
+      "blade_tip_id_list": "back_folded_tip, rounded_tip"
     },
     {
       "id": "95",
@@ -86,7 +86,7 @@
       "name": "95",
       "size": "95",
       "label": "",
-      "tip_id_list": "back_folded_tip, rounded_tip"
+      "blade_tip_id_list": "back_folded_tip, rounded_tip"
     },
     {
       "id": "96",
@@ -94,7 +94,7 @@
       "name": "96",
       "size": "96",
       "label": "",
-      "tip_id_list": "back_folded_tip, rounded_tip"
+      "blade_tip_id_list": "back_folded_tip, rounded_tip"
     },
     {
       "id": "97",
@@ -102,7 +102,7 @@
       "name": "97",
       "size": "97",
       "label": "",
-      "tip_id_list": "back_folded_tip, rounded_tip"
+      "blade_tip_id_list": "back_folded_tip, rounded_tip"
     },
     {
       "id": "98",
@@ -110,7 +110,7 @@
       "name": "98",
       "size": "98",
       "label": "",
-      "tip_id_list": "back_folded_tip, rounded_tip"
+      "blade_tip_id_list": "back_folded_tip, rounded_tip"
     },
     {
       "id": "99",
@@ -118,7 +118,7 @@
       "name": "99",
       "size": "99",
       "label": "",
-      "tip_id_list": "back_folded_tip, rounded_tip"
+      "blade_tip_id_list": "back_folded_tip, rounded_tip"
     },
     {
       "id": "100",
@@ -126,7 +126,7 @@
       "name": "100",
       "size": "100",
       "label": "",
-      "tip_id_list": "back_folded_tip, rounded_tip,spatulated_tip"
+      "blade_tip_id_list": "back_folded_tip, rounded_tip,spatulated_tip"
     },
     {
       "id": "101",
@@ -134,7 +134,7 @@
       "name": "101",
       "size": "101",
       "label": "",
-      "tip_id_list": "back_folded_tip, rounded_tip"
+      "blade_tip_id_list": "back_folded_tip, rounded_tip"
     },
     {
       "id": "102",
@@ -142,7 +142,7 @@
       "name": "102",
       "size": "102",
       "label": "",
-      "tip_id_list": "back_folded_tip, rounded_tip"
+      "blade_tip_id_list": "back_folded_tip, rounded_tip"
     },
     {
       "id": "103",
@@ -150,7 +150,7 @@
       "name": "103",
       "size": "103",
       "label": "",
-      "tip_id_list": "back_folded_tip, rounded_tip"
+      "blade_tip_id_list": "back_folded_tip, rounded_tip"
     },
     {
       "id": "104",
@@ -158,7 +158,7 @@
       "name": "104",
       "size": "104",
       "label": "recommended",
-      "tip_id_list": "back_folded_tip, rounded_tip,spatulated_tip"
+      "blade_tip_id_list": "back_folded_tip, rounded_tip,spatulated_tip"
     },
     {
       "id": "108",
@@ -166,7 +166,7 @@
       "name": "108",
       "size": "108",
       "label": "",
-      "tip_id_list": "back_folded_tip, rounded_tip,spatulated_tip"
+      "blade_tip_id_list": "back_folded_tip, rounded_tip,spatulated_tip"
     }
   ],
   "blade_flex": [
@@ -458,7 +458,7 @@
       "model_id_list": "custom_rapier",
       "name": "14",
       "size": "14",
-      "tip_id_list": "back_folded_tip, rounded_tip, spatulated_tip",
+      "blade_tip_id_list": "back_folded_tip, rounded_tip, spatulated_tip",
       "blade_length_id_list": "104, 108",
       "label": ""
     },
@@ -467,7 +467,7 @@
       "model_id_list": "custom_one_handed_sword",
       "name": "16",
       "size": "16",
-      "tip_id_list": "back_folded_tip, rounded_tip, spatulated_tip",
+      "blade_tip_id_list": "back_folded_tip, rounded_tip, spatulated_tip",
       "blade_length_id_list": "83",
       "label": ""
     },
@@ -476,7 +476,7 @@
       "model_id_list": "custom_feder",
       "name": "28",
       "size": "28",
-      "tip_id_list": "back_folded_tip, rounded_tip",
+      "blade_tip_id_list": "back_folded_tip, rounded_tip",
       "blade_length_id_list": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
       "label": ""
     },
@@ -485,7 +485,7 @@
       "model_id_list": "custom_feder",
       "name": "29",
       "size": "29",
-      "tip_id_list": "back_folded_tip, rounded_tip",
+      "blade_tip_id_list": "back_folded_tip, rounded_tip",
       "blade_length_id_list": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
       "label": ""
     },
@@ -494,7 +494,7 @@
       "model_id_list": "custom_feder",
       "name": "30",
       "size": "30",
-      "tip_id_list": "back_folded_tip, rounded_tip",
+      "blade_tip_id_list": "back_folded_tip, rounded_tip",
       "blade_length_id_list": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
       "label": ""
     },
@@ -503,7 +503,7 @@
       "model_id_list": "custom_feder",
       "name": "31",
       "size": "31",
-      "tip_id_list": "back_folded_tip, rounded_tip",
+      "blade_tip_id_list": "back_folded_tip, rounded_tip",
       "blade_length_id_list": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
       "label": ""
     },
@@ -512,7 +512,7 @@
       "model_id_list": "custom_feder",
       "name": "32",
       "size": "32",
-      "tip_id_list": "back_folded_tip, rounded_tip",
+      "blade_tip_id_list": "back_folded_tip, rounded_tip",
       "blade_length_id_list": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
       "label": ""
     },
@@ -521,7 +521,7 @@
       "model_id_list": "custom_feder",
       "name": "33",
       "size": "33",
-      "tip_id_list": "back_folded_tip, rounded_tip",
+      "blade_tip_id_list": "back_folded_tip, rounded_tip",
       "blade_length_id_list": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
       "label": ""
     },
@@ -530,7 +530,7 @@
       "model_id_list": "custom_feder",
       "name": "34",
       "size": "34",
-      "tip_id_list": "back_folded_tip, rounded_tip",
+      "blade_tip_id_list": "back_folded_tip, rounded_tip",
       "blade_length_id_list": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
       "label": ""
     },
@@ -539,7 +539,7 @@
       "model_id_list": "custom_feder",
       "name": "35",
       "size": "35",
-      "tip_id_list": "back_folded_tip, rounded_tip",
+      "blade_tip_id_list": "back_folded_tip, rounded_tip",
       "blade_length_id_list": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
       "label": "recommended"
     },
@@ -548,7 +548,7 @@
       "model_id_list": "custom_feder",
       "name": "32",
       "size": "32",
-      "tip_id_list": "spatulated_tip",
+      "blade_tip_id_list": "spatulated_tip",
       "blade_length_id_list": "100",
       "label": ""
     },
@@ -557,7 +557,7 @@
       "model_id_list": "custom_feder",
       "name": "34",
       "size": "34",
-      "tip_id_list": "spatulated_tip",
+      "blade_tip_id_list": "spatulated_tip",
       "blade_length_id_list": "104",
       "label": "recommended"
     }
