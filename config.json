@@ -38,7 +38,7 @@
       "name": "83",
       "size": "83",
       "label": "",
-      "tip_compatibility": "back_folded_tip, rounded_tip,spatulated_tip"
+      "tip_id_list": "back_folded_tip, rounded_tip,spatulated_tip"
     },
     {
       "id": "90",
@@ -46,7 +46,7 @@
       "name": "90",
       "size": "90",
       "label": "",
-      "tip_compatibility": "back_folded_tip, rounded_tip"
+      "tip_id_list": "back_folded_tip, rounded_tip"
     },
     {
       "id": "91",
@@ -54,7 +54,7 @@
       "name": "91",
       "size": "91",
       "label": "",
-      "tip_compatibility": "back_folded_tip, rounded_tip"
+      "tip_id_list": "back_folded_tip, rounded_tip"
     },
     {
       "id": "92",
@@ -62,7 +62,7 @@
       "name": "92",
       "size": "92",
       "label": "",
-      "tip_compatibility": "back_folded_tip, rounded_tip"
+      "tip_id_list": "back_folded_tip, rounded_tip"
     },
     {
       "id": "93",
@@ -70,7 +70,7 @@
       "name": "93",
       "size": "93",
       "label": "",
-      "tip_compatibility": "back_folded_tip, rounded_tip"
+      "tip_id_list": "back_folded_tip, rounded_tip"
     },
     {
       "id": "94",
@@ -78,7 +78,7 @@
       "name": "94",
       "size": "94",
       "label": "",
-      "tip_compatibility": "back_folded_tip, rounded_tip"
+      "tip_id_list": "back_folded_tip, rounded_tip"
     },
     {
       "id": "95",
@@ -86,7 +86,7 @@
       "name": "95",
       "size": "95",
       "label": "",
-      "tip_compatibility": "back_folded_tip, rounded_tip"
+      "tip_id_list": "back_folded_tip, rounded_tip"
     },
     {
       "id": "96",
@@ -94,7 +94,7 @@
       "name": "96",
       "size": "96",
       "label": "",
-      "tip_compatibility": "back_folded_tip, rounded_tip"
+      "tip_id_list": "back_folded_tip, rounded_tip"
     },
     {
       "id": "97",
@@ -102,7 +102,7 @@
       "name": "97",
       "size": "97",
       "label": "",
-      "tip_compatibility": "back_folded_tip, rounded_tip"
+      "tip_id_list": "back_folded_tip, rounded_tip"
     },
     {
       "id": "98",
@@ -110,7 +110,7 @@
       "name": "98",
       "size": "98",
       "label": "",
-      "tip_compatibility": "back_folded_tip, rounded_tip"
+      "tip_id_list": "back_folded_tip, rounded_tip"
     },
     {
       "id": "99",
@@ -118,7 +118,7 @@
       "name": "99",
       "size": "99",
       "label": "",
-      "tip_compatibility": "back_folded_tip, rounded_tip"
+      "tip_id_list": "back_folded_tip, rounded_tip"
     },
     {
       "id": "100",
@@ -126,7 +126,7 @@
       "name": "100",
       "size": "100",
       "label": "",
-      "tip_compatibility": "back_folded_tip, rounded_tip,spatulated_tip"
+      "tip_id_list": "back_folded_tip, rounded_tip,spatulated_tip"
     },
     {
       "id": "101",
@@ -134,7 +134,7 @@
       "name": "101",
       "size": "101",
       "label": "",
-      "tip_compatibility": "back_folded_tip, rounded_tip"
+      "tip_id_list": "back_folded_tip, rounded_tip"
     },
     {
       "id": "102",
@@ -142,7 +142,7 @@
       "name": "102",
       "size": "102",
       "label": "",
-      "tip_compatibility": "back_folded_tip, rounded_tip"
+      "tip_id_list": "back_folded_tip, rounded_tip"
     },
     {
       "id": "103",
@@ -150,7 +150,7 @@
       "name": "103",
       "size": "103",
       "label": "",
-      "tip_compatibility": "back_folded_tip, rounded_tip"
+      "tip_id_list": "back_folded_tip, rounded_tip"
     },
     {
       "id": "104",
@@ -158,7 +158,7 @@
       "name": "104",
       "size": "104",
       "label": "recommended",
-      "tip_compatibility": "back_folded_tip, rounded_tip,spatulated_tip"
+      "tip_id_list": "back_folded_tip, rounded_tip,spatulated_tip"
     },
     {
       "id": "108",
@@ -166,7 +166,7 @@
       "name": "108",
       "size": "108",
       "label": "",
-      "tip_compatibility": "back_folded_tip, rounded_tip,spatulated_tip"
+      "tip_id_list": "back_folded_tip, rounded_tip,spatulated_tip"
     }
   ],
   "blade_flex": [
@@ -290,7 +290,7 @@
       "name": "Standard",
       "description": "",
       "price": "0",
-      "crossguard_length_compatibility": "25, 28, 18",
+      "crossguard_length_id_list": "25, 28, 18",
       "label": "recommended",
       "photo": "photos/standard",
       "visualization": "visualization/vz_standard"
@@ -301,7 +301,7 @@
       "name": "Twisted",
       "description": "",
       "price": "15",
-      "crossguard_length_compatibility": "25, 28",
+      "crossguard_length_id_list": "25, 28",
       "label": "",
       "photo": "photos/twisted",
       "visualization": "visualization/vz_twisted"
@@ -312,7 +312,7 @@
       "name": "Waved",
       "description": "",
       "price": "15",
-      "crossguard_length_compatibility": "25, 28",
+      "crossguard_length_id_list": "25, 28",
       "label": "",
       "photo": "photos/waved",
       "visualization": "visualization/vz_waved"
@@ -323,7 +323,7 @@
       "name": "Cylindrical",
       "description": "",
       "price": "40",
-      "crossguard_length_compatibility": "25, 28",
+      "crossguard_length_id_list": "25, 28",
       "label": "",
       "photo": "photos/cylindrical",
       "visualization": "visualization/vz_cylindrical"
@@ -334,7 +334,7 @@
       "name": "Standard",
       "description": "",
       "price": "0",
-      "crossguard_length_compatibility": "25, 28, 18",
+      "crossguard_length_id_list": "25, 28, 18",
       "label": "recommended",
       "photo": "photos/standard_one_handed",
       "visualization": "visualization/vz_standard_one_handed"
@@ -345,7 +345,7 @@
       "name": "Spain cup-hilt",
       "description": "",
       "price": "40",
-      "crossguard_length_compatibility": "28",
+      "crossguard_length_id_list": "28",
       "label": "",
       "photo": "photos/rapier_spain",
       "visualization": "visualization/vz_rapier_spain"
@@ -381,7 +381,7 @@
       "name": "Polished",
       "price": "0",
       "hex": "",
-      "crossguard_compatibility": "standard, cylindrical, standard_one_handed, rapier_spain"
+      "crossguard_id_list": "standard, cylindrical, standard_one_handed, rapier_spain"
     },
     {
       "id": "dark",
@@ -389,7 +389,7 @@
       "name": "Dark",
       "price": "15",
       "hex": "#333333",
-      "crossguard_compatibility": "twisted, waved"
+      "crossguard_id_list": "twisted, waved"
     },
     {
       "id": "black",
@@ -397,7 +397,7 @@
       "name": "Black",
       "price": "25",
       "hex": "#000000",
-      "crossguard_compatibility": "standard, cylindrical, twisted, waved"
+      "crossguard_id_list": "standard, cylindrical, twisted, waved"
     }
   ],
   "grip": [
@@ -458,8 +458,8 @@
       "model_id_list": "custom_rapier",
       "name": "14",
       "size": "14",
-      "tip_compatibility": "back_folded_tip, rounded_tip, spatulated_tip",
-      "blade_length_compatibility": "104, 108",
+      "tip_id_list": "back_folded_tip, rounded_tip, spatulated_tip",
+      "blade_length_id_list": "104, 108",
       "label": ""
     },
     {
@@ -467,8 +467,8 @@
       "model_id_list": "custom_one_handed_sword",
       "name": "16",
       "size": "16",
-      "tip_compatibility": "back_folded_tip, rounded_tip, spatulated_tip",
-      "blade_length_compatibility": "83",
+      "tip_id_list": "back_folded_tip, rounded_tip, spatulated_tip",
+      "blade_length_id_list": "83",
       "label": ""
     },
     {
@@ -476,8 +476,8 @@
       "model_id_list": "custom_feder",
       "name": "28",
       "size": "28",
-      "tip_compatibility": "back_folded_tip, rounded_tip",
-      "blade_length_compatibility": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
+      "tip_id_list": "back_folded_tip, rounded_tip",
+      "blade_length_id_list": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
       "label": ""
     },
     {
@@ -485,8 +485,8 @@
       "model_id_list": "custom_feder",
       "name": "29",
       "size": "29",
-      "tip_compatibility": "back_folded_tip, rounded_tip",
-      "blade_length_compatibility": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
+      "tip_id_list": "back_folded_tip, rounded_tip",
+      "blade_length_id_list": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
       "label": ""
     },
     {
@@ -494,8 +494,8 @@
       "model_id_list": "custom_feder",
       "name": "30",
       "size": "30",
-      "tip_compatibility": "back_folded_tip, rounded_tip",
-      "blade_length_compatibility": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
+      "tip_id_list": "back_folded_tip, rounded_tip",
+      "blade_length_id_list": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
       "label": ""
     },
     {
@@ -503,8 +503,8 @@
       "model_id_list": "custom_feder",
       "name": "31",
       "size": "31",
-      "tip_compatibility": "back_folded_tip, rounded_tip",
-      "blade_length_compatibility": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
+      "tip_id_list": "back_folded_tip, rounded_tip",
+      "blade_length_id_list": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
       "label": ""
     },
     {
@@ -512,8 +512,8 @@
       "model_id_list": "custom_feder",
       "name": "32",
       "size": "32",
-      "tip_compatibility": "back_folded_tip, rounded_tip",
-      "blade_length_compatibility": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
+      "tip_id_list": "back_folded_tip, rounded_tip",
+      "blade_length_id_list": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
       "label": ""
     },
     {
@@ -521,8 +521,8 @@
       "model_id_list": "custom_feder",
       "name": "33",
       "size": "33",
-      "tip_compatibility": "back_folded_tip, rounded_tip",
-      "blade_length_compatibility": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
+      "tip_id_list": "back_folded_tip, rounded_tip",
+      "blade_length_id_list": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
       "label": ""
     },
     {
@@ -530,8 +530,8 @@
       "model_id_list": "custom_feder",
       "name": "34",
       "size": "34",
-      "tip_compatibility": "back_folded_tip, rounded_tip",
-      "blade_length_compatibility": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
+      "tip_id_list": "back_folded_tip, rounded_tip",
+      "blade_length_id_list": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
       "label": ""
     },
     {
@@ -539,8 +539,8 @@
       "model_id_list": "custom_feder",
       "name": "35",
       "size": "35",
-      "tip_compatibility": "back_folded_tip, rounded_tip",
-      "blade_length_compatibility": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
+      "tip_id_list": "back_folded_tip, rounded_tip",
+      "blade_length_id_list": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
       "label": "recommended"
     },
     {
@@ -548,8 +548,8 @@
       "model_id_list": "custom_feder",
       "name": "32",
       "size": "32",
-      "tip_compatibility": "spatulated_tip",
-      "blade_length_compatibility": "100",
+      "tip_id_list": "spatulated_tip",
+      "blade_length_id_list": "100",
       "label": ""
     },
     {
@@ -557,8 +557,8 @@
       "model_id_list": "custom_feder",
       "name": "34",
       "size": "34",
-      "tip_compatibility": "spatulated_tip",
-      "blade_length_compatibility": "104",
+      "tip_id_list": "spatulated_tip",
+      "blade_length_id_list": "104",
       "label": "recommended"
     }
   ],
@@ -651,7 +651,7 @@
       "name": "Black",
       "price": "0",
       "hex": "#000000",
-      "grip_finish_compatibility": "cord, double_cord"
+      "grip_finish_id_list": "cord, double_cord"
     },
     {
       "id": "natural",
@@ -659,7 +659,7 @@
       "name": "Natural",
       "price": "5",
       "hex": "#F5F5DC",
-      "grip_finish_compatibility": "cord, double_cord"
+      "grip_finish_id_list": "cord, double_cord"
     },
     {
       "id": "dark_brown",
@@ -667,7 +667,7 @@
       "name": "Dark Brown",
       "price": "5",
       "hex": "#4B2E2A",
-      "grip_finish_compatibility": "cord, double_cord"
+      "grip_finish_id_list": "cord, double_cord"
     },
     {
       "id": "light_brown",
@@ -675,7 +675,7 @@
       "name": "Light Brown",
       "price": "5",
       "hex": "#C1916B",
-      "grip_finish_compatibility": "cord, double_cord"
+      "grip_finish_id_list": "cord, double_cord"
     },
     {
       "id": "dark_gray",
@@ -683,7 +683,7 @@
       "name": "Dark Gray",
       "price": "5",
       "hex": "#4A4A4A",
-      "grip_finish_compatibility": "cord, double_cord"
+      "grip_finish_id_list": "cord, double_cord"
     },
     {
       "id": "light_gray",
@@ -691,7 +691,7 @@
       "name": "Light Gray",
       "price": "5",
       "hex": "#D3D3D3",
-      "grip_finish_compatibility": "cord, double_cord"
+      "grip_finish_id_list": "cord, double_cord"
     },
     {
       "id": "dark_blue",
@@ -699,7 +699,7 @@
       "name": "Dark Blue",
       "price": "5",
       "hex": "#00008B",
-      "grip_finish_compatibility": "cord, double_cord"
+      "grip_finish_id_list": "cord, double_cord"
     },
     {
       "id": "light_blue",
@@ -707,7 +707,7 @@
       "name": "Light Blue",
       "price": "5",
       "hex": "#ADD8E6",
-      "grip_finish_compatibility": "cord, double_cord"
+      "grip_finish_id_list": "cord, double_cord"
     },
     {
       "id": "purple",
@@ -715,7 +715,7 @@
       "name": "Purple",
       "price": "5",
       "hex": "#800080",
-      "grip_finish_compatibility": "cord, double_cord"
+      "grip_finish_id_list": "cord, double_cord"
     },
     {
       "id": "pink",
@@ -723,7 +723,7 @@
       "name": "Pink",
       "price": "5",
       "hex": "#FFC0CB",
-      "grip_finish_compatibility": "cord, double_cord"
+      "grip_finish_id_list": "cord, double_cord"
     },
     {
       "id": "burgundy",
@@ -731,7 +731,7 @@
       "name": "Burgundy",
       "price": "5",
       "hex": "#800020",
-      "grip_finish_compatibility": "cord, double_cord"
+      "grip_finish_id_list": "cord, double_cord"
     },
     {
       "id": "red",
@@ -739,7 +739,7 @@
       "name": "Red",
       "price": "5",
       "hex": "#FF0000",
-      "grip_finish_compatibility": "cord, double_cord"
+      "grip_finish_id_list": "cord, double_cord"
     },
     {
       "id": "orange",
@@ -747,7 +747,7 @@
       "name": "Orange",
       "price": "5",
       "hex": "#FFA500",
-      "grip_finish_compatibility": "cord, double_cord"
+      "grip_finish_id_list": "cord, double_cord"
     },
     {
       "id": "yellow",
@@ -755,7 +755,7 @@
       "name": "Yellow",
       "price": "5",
       "hex": "#FFFF00",
-      "grip_finish_compatibility": "cord, double_cord"
+      "grip_finish_id_list": "cord, double_cord"
     },
     {
       "id": "black_leather_ribbed",
@@ -763,7 +763,7 @@
       "name": "Black leather",
       "price": "0",
       "hex": "#111111",
-      "grip_finish_compatibility": "ribbed_leather, ribbed_leather_rapier"
+      "grip_finish_id_list": "ribbed_leather, ribbed_leather_rapier"
     },
     {
       "id": "brown_leather_ribbed",
@@ -771,7 +771,7 @@
       "name": "Brown leather",
       "price": "0",
       "hex": "#8B4513",
-      "grip_finish_compatibility": "ribbed_leather, ribbed_leather_rapier"
+      "grip_finish_id_list": "ribbed_leather, ribbed_leather_rapier"
     },
     {
       "id": "black_leather",
@@ -779,7 +779,7 @@
       "name": "Black leather",
       "price": "10",
       "hex": "#111111",
-      "grip_finish_compatibility": "spiral_leather, double_spiral_leather, wired_leather"
+      "grip_finish_id_list": "spiral_leather, double_spiral_leather, wired_leather"
     },
     {
       "id": "brown_leather",
@@ -787,7 +787,7 @@
       "name": "Brown leather",
       "price": "10",
       "hex": "#8B4513",
-      "grip_finish_compatibility": "spiral_leather, double_spiral_leather, wired_leather"
+      "grip_finish_id_list": "spiral_leather, double_spiral_leather, wired_leather"
     },
     {
       "id": "blue_leather",
@@ -795,7 +795,7 @@
       "name": "Blue leather",
       "price": "15",
       "hex": "#003366",
-      "grip_finish_compatibility": "spiral_leather, double_spiral_leather, wired_leather"
+      "grip_finish_id_list": "spiral_leather, double_spiral_leather, wired_leather"
     },
     {
       "id": "red_leather",
@@ -803,7 +803,7 @@
       "name": "Red leather",
       "price": "15",
       "hex": "#8B0000",
-      "grip_finish_compatibility": "spiral_leather, double_spiral_leather, wired_leather"
+      "grip_finish_id_list": "spiral_leather, double_spiral_leather, wired_leather"
     },
     {
       "id": "green_leather",
@@ -811,7 +811,7 @@
       "name": "Green leather",
       "price": "15",
       "hex": "#006400",
-      "grip_finish_compatibility": "spiral_leather, double_spiral_leather, wired_leather"
+      "grip_finish_id_list": "spiral_leather, double_spiral_leather, wired_leather"
     }
   ],
   "pommel": [
