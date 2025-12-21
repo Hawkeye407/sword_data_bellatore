@@ -209,7 +209,7 @@
       "label": ""
     }
   ],
-  "tip": [
+  "blade_tip": [
     {
       "id": "back_folded_tip",
       "model_id_list": "custom_feder, custom_one_handed_sword, custom_rapier",
