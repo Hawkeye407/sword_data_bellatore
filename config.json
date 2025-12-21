@@ -34,209 +34,209 @@
   "blade_length": [
     {
       "id": "83",
-      "model_id_list": "custom_one_handed_sword",
       "name": "83",
       "size": "83",
       "label": "",
+      "model_id_list": "custom_one_handed_sword",
       "blade_tip_id_list": "back_folded_tip, rounded_tip,spatulated_tip"
     },
     {
       "id": "90",
-      "model_id_list": "custom_feder",
       "name": "90",
       "size": "90",
       "label": "",
+      "model_id_list": "custom_feder",
       "blade_tip_id_list": "back_folded_tip, rounded_tip"
     },
     {
       "id": "91",
-      "model_id_list": "custom_feder",
       "name": "91",
       "size": "91",
       "label": "",
+      "model_id_list": "custom_feder",
       "blade_tip_id_list": "back_folded_tip, rounded_tip"
     },
     {
       "id": "92",
-      "model_id_list": "custom_feder",
       "name": "92",
       "size": "92",
       "label": "",
+      "model_id_list": "custom_feder",
       "blade_tip_id_list": "back_folded_tip, rounded_tip"
     },
     {
       "id": "93",
-      "model_id_list": "custom_feder",
       "name": "93",
       "size": "93",
       "label": "",
+      "model_id_list": "custom_feder",
       "blade_tip_id_list": "back_folded_tip, rounded_tip"
     },
     {
       "id": "94",
-      "model_id_list": "custom_feder",
       "name": "94",
       "size": "94",
       "label": "",
+      "model_id_list": "custom_feder",
       "blade_tip_id_list": "back_folded_tip, rounded_tip"
     },
     {
       "id": "95",
-      "model_id_list": "custom_feder",
       "name": "95",
       "size": "95",
       "label": "",
+      "model_id_list": "custom_feder",
       "blade_tip_id_list": "back_folded_tip, rounded_tip"
     },
     {
       "id": "96",
-      "model_id_list": "custom_feder",
       "name": "96",
       "size": "96",
       "label": "",
+      "model_id_list": "custom_feder",
       "blade_tip_id_list": "back_folded_tip, rounded_tip"
     },
     {
       "id": "97",
-      "model_id_list": "custom_feder",
       "name": "97",
       "size": "97",
       "label": "",
+      "model_id_list": "custom_feder",
       "blade_tip_id_list": "back_folded_tip, rounded_tip"
     },
     {
       "id": "98",
-      "model_id_list": "custom_feder",
       "name": "98",
       "size": "98",
       "label": "",
+      "model_id_list": "custom_feder",
       "blade_tip_id_list": "back_folded_tip, rounded_tip"
     },
     {
       "id": "99",
-      "model_id_list": "custom_feder",
       "name": "99",
       "size": "99",
       "label": "",
+      "model_id_list": "custom_feder",
       "blade_tip_id_list": "back_folded_tip, rounded_tip"
     },
     {
       "id": "100",
-      "model_id_list": "custom_feder",
       "name": "100",
       "size": "100",
       "label": "",
+      "model_id_list": "custom_feder",
       "blade_tip_id_list": "back_folded_tip, rounded_tip,spatulated_tip"
     },
     {
       "id": "101",
-      "model_id_list": "custom_feder",
       "name": "101",
       "size": "101",
       "label": "",
+      "model_id_list": "custom_feder",
       "blade_tip_id_list": "back_folded_tip, rounded_tip"
     },
     {
       "id": "102",
-      "model_id_list": "custom_feder",
       "name": "102",
       "size": "102",
       "label": "",
+      "model_id_list": "custom_feder",
       "blade_tip_id_list": "back_folded_tip, rounded_tip"
     },
     {
       "id": "103",
-      "model_id_list": "custom_feder",
       "name": "103",
       "size": "103",
       "label": "",
+      "model_id_list": "custom_feder",
       "blade_tip_id_list": "back_folded_tip, rounded_tip"
     },
     {
       "id": "104",
-      "model_id_list": "custom_feder, custom_rapier",
       "name": "104",
       "size": "104",
       "label": "recommended",
+      "model_id_list": "custom_feder, custom_rapier",
       "blade_tip_id_list": "back_folded_tip, rounded_tip,spatulated_tip"
     },
     {
       "id": "108",
-      "model_id_list": "custom_rapier",
       "name": "108",
       "size": "108",
       "label": "",
+      "model_id_list": "custom_rapier",
       "blade_tip_id_list": "back_folded_tip, rounded_tip,spatulated_tip"
     }
   ],
   "blade_flex": [
     {
       "id": "light",
-      "model_id_list": "custom_feder, custom_one_handed_sword, custom_rapier",
       "name": "light",
       "flex_from": "7",
       "flex_to": "9.5",
-      "label": ""
+      "label": "",
+      "model_id_list": "custom_feder, custom_one_handed_sword, custom_rapier"
     },
     {
       "id": "medium",
-      "model_id_list": "custom_feder, custom_one_handed_sword, custom_rapier",
       "name": "medium",
       "flex_from": "11.5",
       "flex_to": "13",
-      "label": "recommended"
+      "label": "recommended",
+      "model_id_list": "custom_feder, custom_one_handed_sword, custom_rapier"
     },
     {
       "id": "strong",
-      "model_id_list": "custom_feder, custom_one_handed_sword, custom_rapier",
       "name": "strong",
       "flex_from": "13.5",
       "flex_to": "15",
-      "label": ""
+      "label": "",
+      "model_id_list": "custom_feder, custom_one_handed_sword, custom_rapier"
     }
   ],
   "blade_edge": [
     {
       "id": "blunt",
-      "model_id_list": "custom_feder, custom_one_handed_sword, custom_rapier",
       "name": "blunt",
-      "label": ""
+      "label": "",
+      "model_id_list": "custom_feder, custom_one_handed_sword, custom_rapier"
     },
     {
       "id": "sharp",
-      "model_id_list": "custom_one_handed_sword",
       "name": "sharp",
-      "label": ""
+      "label": "",
+      "model_id_list": "custom_one_handed_sword"
     }
   ],
   "blade_tip": [
     {
       "id": "back_folded_tip",
-      "model_id_list": "custom_feder, custom_one_handed_sword, custom_rapier",
       "name": "Back-Folded Tip",
       "description": "To this day, we consider this to be the safest type of tip. As far as we know, it is accepted in all tournament.",
       "price": "0",
       "label": "",
+      "model_id_list": "custom_feder, custom_one_handed_sword, custom_rapier",
       "photo": "photos/back_folded_tip",
       "visualization": "visualization/vz_back_folded_tip"
     },
     {
       "id": "rounded_tip",
-      "model_id_list": "custom_feder, custom_one_handed_sword, custom_rapier",
       "name": "Rounded Tip",
       "description": "The tip of the feder is simply rounded. Needs additional protection to use in free sparring. Not suitable for tournaments.",
       "price": "0",
       "label": "",
+      "model_id_list": "custom_feder, custom_one_handed_sword, custom_rapier",
       "photo": "photos/rounded_tip",
       "visualization": "visualization/vz_rounded_tip"
     },
     {
       "id": "spatulated_tip",
-      "model_id_list": "custom_feder, custom_one_handed_sword, custom_rapier",
       "name": "Spatulated Tip",
       "description": "New generation tip, opinions are divided, we only recommend it to those who know what they are looking for. Its acceptance in tournaments varies.",
       "price": "0",
       "label": "recommended",
+      "model_id_list": "custom_feder, custom_one_handed_sword, custom_rapier",
       "photo": "photos/spatulated_tip",
       "visualization": "visualization/vz_spatulated_tip"
     }
@@ -244,41 +244,41 @@
   "schilt": [
     {
       "id": "wide",
-      "model_id_list": "custom_feder",
       "name": "Wide",
       "description": "Our “Wide Feder” builds on the trusted foundation of our standard federschwerts, featuring a broader schilt designed with tournament performance in mind.",
       "price": "0",
       "label": "recommended",
+      "model_id_list": "custom_feder",
       "photo": "photos/wide",
       "visualization": "visualization/vz_wide"
     },
     {
       "id": "italian",
-      "model_id_list": "custom_feder",
       "name": "Italian",
       "description": "Our “Italian Feder” combines the trusted handling and durability of our federschwerts with a schilt design inspired by the graceful forms of Italian swords.",
       "price": "0",
       "label": "",
+      "model_id_list": "custom_feder",
       "photo": "photos/italian",
       "visualization": "visualization/vz_italian"
     },
     {
       "id": "spiky",
-      "model_id_list": "custom_feder",
       "name": "Spiky",
       "description": "Our Custom Spiky Feder takes the proven reliability of our Standard Feder and pairs it with a high level of personalization to suit your exact fencing preferences.",
       "price": "0",
       "label": "",
+      "model_id_list": "custom_feder",
       "photo": "photos/spiky",
       "visualization": "visualization/vz_spiky"
     },
     {
       "id": "schiltless",
-      "model_id_list": "custom_feder",
       "name": "Schiltless",
       "description": "Our schiltless Feder is designed for fencers who prefer a cleaner, more minimalist blade profile — one that reflects earlier longsword forms and traditions.",
       "price": "0",
       "label": "",
+      "model_id_list": "custom_feder",
       "photo": "photos/schiltless",
       "visualization": "visualization/vz_schiltless"
     }
@@ -286,67 +286,67 @@
   "crossguard": [
     {
       "id": "standard",
-      "model_id_list": "custom_feder",
       "name": "Standard",
       "description": "",
       "price": "0",
-      "crossguard_length_id_list": "25, 28, 18",
       "label": "recommended",
+      "model_id_list": "custom_feder",
+      "crossguard_length_id_list": "25, 28, 18",
       "photo": "photos/standard",
       "visualization": "visualization/vz_standard"
     },
     {
       "id": "twisted",
-      "model_id_list": "custom_feder",
       "name": "Twisted",
       "description": "",
       "price": "15",
-      "crossguard_length_id_list": "25, 28",
       "label": "",
+      "model_id_list": "custom_feder",
+      "crossguard_length_id_list": "25, 28",
       "photo": "photos/twisted",
       "visualization": "visualization/vz_twisted"
     },
     {
       "id": "waved",
-      "model_id_list": "custom_feder",
       "name": "Waved",
       "description": "",
       "price": "15",
-      "crossguard_length_id_list": "25, 28",
       "label": "",
+      "model_id_list": "custom_feder",
+      "crossguard_length_id_list": "25, 28",
       "photo": "photos/waved",
       "visualization": "visualization/vz_waved"
     },
     {
       "id": "cylindrical",
-      "model_id_list": "custom_feder",
       "name": "Cylindrical",
       "description": "",
       "price": "40",
-      "crossguard_length_id_list": "25, 28",
       "label": "",
+      "model_id_list": "custom_feder",
+      "crossguard_length_id_list": "25, 28",
       "photo": "photos/cylindrical",
       "visualization": "visualization/vz_cylindrical"
     },
     {
       "id": "standard_one_handed",
-      "model_id_list": "custom_one_handed_sword",
       "name": "Standard",
       "description": "",
       "price": "0",
-      "crossguard_length_id_list": "25, 28, 18",
       "label": "recommended",
+      "model_id_list": "custom_one_handed_sword",
+      "crossguard_length_id_list": "25, 28, 18",
       "photo": "photos/standard_one_handed",
       "visualization": "visualization/vz_standard_one_handed"
     },
     {
       "id": "rapier_spain",
-      "model_id_list": "custom_rapier",
       "name": "Spain cup-hilt",
       "description": "",
       "price": "40",
-      "crossguard_length_id_list": "28",
       "label": "",
+      "model_id_list": "custom_rapier",
+      "crossguard_length_id_list": "28",
       "photo": "photos/rapier_spain",
       "visualization": "visualization/vz_rapier_spain"
     }
@@ -354,100 +354,100 @@
   "crossguard_length": [
     {
       "id": "18",
-      "model_id_list": "custom_one_handed_sword",
       "name": "18",
       "size": "18",
-      "label": ""
+      "label": "",
+      "model_id_list": "custom_one_handed_sword"
     },
     {
       "id": "25",
-      "model_id_list": "custom_feder",
       "name": "25",
       "size": "25",
-      "label": ""
+      "label": "",
+      "model_id_list": "custom_feder"
     },
     {
       "id": "28",
-      "model_id_list": "custom_feder, custom_rapier",
       "name": "28",
       "size": "28",
-      "label": "recommended"
+      "label": "recommended",
+      "model_id_list": "custom_feder, custom_rapier"
     }
   ],
   "crossguard_finish": [
     {
       "id": "polished",
-      "model_id_list": "custom_feder, custom_one_handed_sword, custom_rapier",
       "name": "Polished",
       "price": "0",
       "hex": "",
+      "model_id_list": "custom_feder, custom_one_handed_sword, custom_rapier",
       "crossguard_id_list": "standard, cylindrical, standard_one_handed, rapier_spain"
     },
     {
       "id": "dark",
-      "model_id_list": "custom_feder",
       "name": "Dark",
       "price": "15",
       "hex": "#333333",
+      "model_id_list": "custom_feder",
       "crossguard_id_list": "twisted, waved"
     },
     {
       "id": "black",
-      "model_id_list": "custom_feder",
       "name": "Black",
       "price": "25",
       "hex": "#000000",
+      "model_id_list": "custom_feder",
       "crossguard_id_list": "standard, cylindrical, twisted, waved"
     }
   ],
   "grip": [
     {
       "id": "oval",
-      "model_id_list": "custom_feder",
       "name": "Oval",
       "description": "",
       "price": "0",
       "label": "",
+      "model_id_list": "custom_feder",
       "photo": "photos/oval",
       "visualization": "visualization/vz_oval"
     },
     {
       "id": "octagonal_waisted",
-      "model_id_list": "custom_feder",
       "name": "Octagonal Waisted",
       "description": "",
       "price": "10",
       "label": "recommended",
+      "model_id_list": "custom_feder",
       "photo": "photos/octagonal_waisted",
       "visualization": "visualization/vz_octagonal_waisted"
     },
     {
       "id": "rectangle_waisted",
-      "model_id_list": "custom_feder",
       "name": "Rectangle Waisted",
       "description": "",
       "price": "10",
       "label": "",
+      "model_id_list": "custom_feder",
       "photo": "photos/rectangle_waisted",
       "visualization": "visualization/vz_rectangle_waisted"
     },
     {
       "id": "oval_one_handed",
-      "model_id_list": "custom_one_handed_sword",
       "name": "Oval",
       "description": "",
       "price": "0",
       "label": "",
+      "model_id_list": "custom_one_handed_sword",
       "photo": "photos/oval_one_handed",
       "visualization": "visualization/vz_oval_one_handed"
     },
     {
       "id": "oval_custom_rapier",
-      "model_id_list": "custom_rapier",
       "name": "Oval",
       "description": "",
       "price": "0",
       "label": "",
+      "model_id_list": "custom_rapier",
       "photo": "photos/oval_custom_rapier",
       "visualization": "visualization/vz_oval_custom_rapier"
     }
@@ -455,462 +455,462 @@
   "grip_length": [
     {
       "id": "14",
-      "model_id_list": "custom_rapier",
       "name": "14",
       "size": "14",
+      "label": "",
+      "model_id_list": "custom_rapier",
       "blade_tip_id_list": "back_folded_tip, rounded_tip, spatulated_tip",
-      "blade_length_id_list": "104, 108",
-      "label": ""
+      "blade_length_id_list": "104, 108"
     },
     {
       "id": "16",
-      "model_id_list": "custom_one_handed_sword",
       "name": "16",
       "size": "16",
+      "label": "",
+      "model_id_list": "custom_one_handed_sword",
       "blade_tip_id_list": "back_folded_tip, rounded_tip, spatulated_tip",
-      "blade_length_id_list": "83",
-      "label": ""
+      "blade_length_id_list": "83"
     },
     {
       "id": "28",
-      "model_id_list": "custom_feder",
       "name": "28",
       "size": "28",
+      "label": "",
+      "model_id_list": "custom_feder",
       "blade_tip_id_list": "back_folded_tip, rounded_tip",
-      "blade_length_id_list": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
-      "label": ""
+      "blade_length_id_list": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104"
     },
     {
       "id": "29",
-      "model_id_list": "custom_feder",
       "name": "29",
       "size": "29",
+      "label": "",
+      "model_id_list": "custom_feder",
       "blade_tip_id_list": "back_folded_tip, rounded_tip",
-      "blade_length_id_list": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
-      "label": ""
+      "blade_length_id_list": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104"
     },
     {
       "id": "30",
-      "model_id_list": "custom_feder",
       "name": "30",
       "size": "30",
+      "label": "",
+      "model_id_list": "custom_feder",
       "blade_tip_id_list": "back_folded_tip, rounded_tip",
-      "blade_length_id_list": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
-      "label": ""
+      "blade_length_id_list": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104"
     },
     {
       "id": "31",
-      "model_id_list": "custom_feder",
       "name": "31",
       "size": "31",
+      "label": "",
+      "model_id_list": "custom_feder",
       "blade_tip_id_list": "back_folded_tip, rounded_tip",
-      "blade_length_id_list": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
-      "label": ""
+      "blade_length_id_list": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104"
     },
     {
       "id": "32",
-      "model_id_list": "custom_feder",
       "name": "32",
       "size": "32",
+      "label": "",
+      "model_id_list": "custom_feder",
       "blade_tip_id_list": "back_folded_tip, rounded_tip",
-      "blade_length_id_list": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
-      "label": ""
+      "blade_length_id_list": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104"
     },
     {
       "id": "33",
-      "model_id_list": "custom_feder",
       "name": "33",
       "size": "33",
+      "label": "",
+      "model_id_list": "custom_feder",
       "blade_tip_id_list": "back_folded_tip, rounded_tip",
-      "blade_length_id_list": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
-      "label": ""
+      "blade_length_id_list": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104"
     },
     {
       "id": "34",
-      "model_id_list": "custom_feder",
       "name": "34",
       "size": "34",
+      "label": "",
+      "model_id_list": "custom_feder",
       "blade_tip_id_list": "back_folded_tip, rounded_tip",
-      "blade_length_id_list": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
-      "label": ""
+      "blade_length_id_list": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104"
     },
     {
       "id": "35",
-      "model_id_list": "custom_feder",
       "name": "35",
       "size": "35",
+      "label": "recommended",
+      "model_id_list": "custom_feder",
       "blade_tip_id_list": "back_folded_tip, rounded_tip",
-      "blade_length_id_list": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104",
-      "label": "recommended"
+      "blade_length_id_list": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104"
     },
     {
       "id": "spatulated_tip_32",
-      "model_id_list": "custom_feder",
       "name": "32",
       "size": "32",
+      "label": "",
+      "model_id_list": "custom_feder",
       "blade_tip_id_list": "spatulated_tip",
-      "blade_length_id_list": "100",
-      "label": ""
+      "blade_length_id_list": "100"
     },
     {
       "id": "spatulated_tip_34",
-      "model_id_list": "custom_feder",
       "name": "34",
       "size": "34",
+      "label": "recommended",
+      "model_id_list": "custom_feder",
       "blade_tip_id_list": "spatulated_tip",
-      "blade_length_id_list": "104",
-      "label": "recommended"
+      "blade_length_id_list": "104"
     }
   ],
   "grip_finish": [
     {
       "id": "cord",
-      "model_id_list": "custom_feder",
       "name": "Cord",
       "description": "",
       "color_number": "1",
       "price": "0",
       "label": "",
+      "model_id_list": "custom_feder",
       "photo": "photos/cord"
     },
     {
       "id": "double_cord",
-      "model_id_list": "custom_feder",
       "name": "Double cord",
       "description": "",
       "color_number": "2",
       "price": "5",
       "label": "",
+      "model_id_list": "custom_feder",
       "photo": "photos/double_cord"
     },
     {
       "id": "spiral_leather",
-      "model_id_list": "custom_feder",
       "name": "Spiral leather",
       "description": "",
       "color_number": "1",
       "price": "10",
       "label": "",
+      "model_id_list": "custom_feder",
       "photo": "photos/spiral_leather"
     },
     {
       "id": "double_spiral_leather",
-      "model_id_list": "custom_feder",
       "name": "Double spiral leather",
       "description": "",
       "color_number": "2",
       "price": "25",
       "label": "",
+      "model_id_list": "custom_feder",
       "photo": "photos/double_spiral_leather"
     },
     {
       "id": "wired_leather",
-      "model_id_list": "custom_feder",
       "name": "Wired leather",
       "description": "",
       "color_number": "1",
       "price": "25",
       "label": "",
+      "model_id_list": "custom_feder",
       "photo": "photos/wired_leather"
     },
     {
       "id": "ribbed_leather",
-      "model_id_list": "custom_feder",
       "name": "Ribbed leather",
       "description": "",
       "color_number": "1",
       "price": "30",
       "label": "",
+      "model_id_list": "custom_feder",
       "photo": "photos/ribbed_leather"
     },
     {
       "id": "ribbed_leather_rapier",
-      "model_id_list": "custom_rapier",
       "name": "Ribbed leather",
       "description": "",
       "color_number": "1",
       "price": "30",
       "label": "",
+      "model_id_list": "custom_rapier",
       "photo": "photos/ribbed_leather_rapier"
     },
     {
       "id": "spiral_leather_one_handed",
-      "model_id_list": "custom_one_handed_sword",
       "name": "Spiral leather",
       "description": "",
       "color_number": "1",
       "price": "10",
       "label": "",
+      "model_id_list": "custom_one_handed_sword",
       "photo": "photos/spiral_leather_one_handed"
     }
   ],
   "grip_color": [
     {
       "id": "black",
-      "model_id_list": "custom_feder, custom_one_handed_sword",
       "name": "Black",
       "price": "0",
       "hex": "#000000",
+      "model_id_list": "custom_feder, custom_one_handed_sword",
       "grip_finish_id_list": "cord, double_cord"
     },
     {
       "id": "natural",
-      "model_id_list": "custom_feder, custom_one_handed_sword",
       "name": "Natural",
       "price": "5",
       "hex": "#F5F5DC",
+      "model_id_list": "custom_feder, custom_one_handed_sword",
       "grip_finish_id_list": "cord, double_cord"
     },
     {
       "id": "dark_brown",
-      "model_id_list": "custom_feder, custom_one_handed_sword",
       "name": "Dark Brown",
       "price": "5",
       "hex": "#4B2E2A",
+      "model_id_list": "custom_feder, custom_one_handed_sword",
       "grip_finish_id_list": "cord, double_cord"
     },
     {
       "id": "light_brown",
-      "model_id_list": "custom_feder, custom_one_handed_sword",
       "name": "Light Brown",
       "price": "5",
       "hex": "#C1916B",
+      "model_id_list": "custom_feder, custom_one_handed_sword",
       "grip_finish_id_list": "cord, double_cord"
     },
     {
       "id": "dark_gray",
-      "model_id_list": "custom_feder, custom_one_handed_sword",
       "name": "Dark Gray",
       "price": "5",
       "hex": "#4A4A4A",
+      "model_id_list": "custom_feder, custom_one_handed_sword",
       "grip_finish_id_list": "cord, double_cord"
     },
     {
       "id": "light_gray",
-      "model_id_list": "custom_feder, custom_one_handed_sword",
       "name": "Light Gray",
       "price": "5",
       "hex": "#D3D3D3",
+      "model_id_list": "custom_feder, custom_one_handed_sword",
       "grip_finish_id_list": "cord, double_cord"
     },
     {
       "id": "dark_blue",
-      "model_id_list": "custom_feder, custom_one_handed_sword",
       "name": "Dark Blue",
       "price": "5",
       "hex": "#00008B",
+      "model_id_list": "custom_feder, custom_one_handed_sword",
       "grip_finish_id_list": "cord, double_cord"
     },
     {
       "id": "light_blue",
-      "model_id_list": "custom_feder, custom_one_handed_sword",
       "name": "Light Blue",
       "price": "5",
       "hex": "#ADD8E6",
+      "model_id_list": "custom_feder, custom_one_handed_sword",
       "grip_finish_id_list": "cord, double_cord"
     },
     {
       "id": "purple",
-      "model_id_list": "custom_feder, custom_one_handed_sword",
       "name": "Purple",
       "price": "5",
       "hex": "#800080",
+      "model_id_list": "custom_feder, custom_one_handed_sword",
       "grip_finish_id_list": "cord, double_cord"
     },
     {
       "id": "pink",
-      "model_id_list": "custom_feder, custom_one_handed_sword",
       "name": "Pink",
       "price": "5",
       "hex": "#FFC0CB",
+      "model_id_list": "custom_feder, custom_one_handed_sword",
       "grip_finish_id_list": "cord, double_cord"
     },
     {
       "id": "burgundy",
-      "model_id_list": "custom_feder, custom_one_handed_sword",
       "name": "Burgundy",
       "price": "5",
       "hex": "#800020",
+      "model_id_list": "custom_feder, custom_one_handed_sword",
       "grip_finish_id_list": "cord, double_cord"
     },
     {
       "id": "red",
-      "model_id_list": "custom_feder, custom_one_handed_sword",
       "name": "Red",
       "price": "5",
       "hex": "#FF0000",
+      "model_id_list": "custom_feder, custom_one_handed_sword",
       "grip_finish_id_list": "cord, double_cord"
     },
     {
       "id": "orange",
-      "model_id_list": "custom_feder, custom_one_handed_sword",
       "name": "Orange",
       "price": "5",
       "hex": "#FFA500",
+      "model_id_list": "custom_feder, custom_one_handed_sword",
       "grip_finish_id_list": "cord, double_cord"
     },
     {
       "id": "yellow",
-      "model_id_list": "custom_feder, custom_one_handed_sword",
       "name": "Yellow",
       "price": "5",
       "hex": "#FFFF00",
+      "model_id_list": "custom_feder, custom_one_handed_sword",
       "grip_finish_id_list": "cord, double_cord"
     },
     {
       "id": "black_leather_ribbed",
-      "model_id_list": "custom_feder, custom_one_handed_sword, custom_rapier",
       "name": "Black leather",
       "price": "0",
       "hex": "#111111",
+      "model_id_list": "custom_feder, custom_one_handed_sword, custom_rapier",
       "grip_finish_id_list": "ribbed_leather, ribbed_leather_rapier"
     },
     {
       "id": "brown_leather_ribbed",
-      "model_id_list": "custom_feder, custom_one_handed_sword, custom_rapier",
       "name": "Brown leather",
       "price": "0",
       "hex": "#8B4513",
+      "model_id_list": "custom_feder, custom_one_handed_sword, custom_rapier",
       "grip_finish_id_list": "ribbed_leather, ribbed_leather_rapier"
     },
     {
       "id": "black_leather",
-      "model_id_list": "custom_feder, custom_one_handed_sword",
       "name": "Black leather",
       "price": "10",
       "hex": "#111111",
+      "model_id_list": "custom_feder, custom_one_handed_sword",
       "grip_finish_id_list": "spiral_leather, double_spiral_leather, wired_leather"
     },
     {
       "id": "brown_leather",
-      "model_id_list": "custom_feder, custom_one_handed_sword",
       "name": "Brown leather",
       "price": "10",
       "hex": "#8B4513",
+      "model_id_list": "custom_feder, custom_one_handed_sword",
       "grip_finish_id_list": "spiral_leather, double_spiral_leather, wired_leather"
     },
     {
       "id": "blue_leather",
-      "model_id_list": "custom_feder, custom_one_handed_sword",
       "name": "Blue leather",
       "price": "15",
       "hex": "#003366",
+      "model_id_list": "custom_feder, custom_one_handed_sword",
       "grip_finish_id_list": "spiral_leather, double_spiral_leather, wired_leather"
     },
     {
       "id": "red_leather",
-      "model_id_list": "custom_feder, custom_one_handed_sword",
       "name": "Red leather",
       "price": "15",
       "hex": "#8B0000",
+      "model_id_list": "custom_feder, custom_one_handed_sword",
       "grip_finish_id_list": "spiral_leather, double_spiral_leather, wired_leather"
     },
     {
       "id": "green_leather",
-      "model_id_list": "custom_feder, custom_one_handed_sword",
       "name": "Green leather",
       "price": "15",
       "hex": "#006400",
+      "model_id_list": "custom_feder, custom_one_handed_sword",
       "grip_finish_id_list": "spiral_leather, double_spiral_leather, wired_leather"
     }
   ],
   "pommel": [
     {
       "id": "pear",
-      "model_id_list": "custom_feder",
       "name": "Pear",
       "description": "",
       "weight": "360",
       "price": "0",
       "label": "",
+      "model_id_list": "custom_feder",
       "photo": "photos/pear",
       "visualization": "visualization/vz_pear"
     },
     {
       "id": "mushroom",
-      "model_id_list": "custom_feder",
       "name": "Mushroom",
       "description": "",
       "weight": "360",
       "price": "0",
       "label": "",
+      "model_id_list": "custom_feder",
       "photo": "photos/mushroom",
       "visualization": "visualization/vz_mushroom"
     },
     {
       "id": "sphere",
-      "model_id_list": "custom_feder",
       "name": "Sphere",
       "description": "",
       "weight": "360",
       "price": "5",
       "label": "",
+      "model_id_list": "custom_feder",
       "photo": "photos/sphere",
       "visualization": "visualization/vz_sphere"
     },
     {
       "id": "slim_pear",
-      "model_id_list": "custom_feder",
       "name": "Slim Pear",
       "description": "",
       "weight": "360",
       "price": "5",
       "label": "",
+      "model_id_list": "custom_feder",
       "photo": "photos/slim_pear",
       "visualization": "visualization/vz_slim_pear"
     },
     {
       "id": "parfume",
-      "model_id_list": "custom_feder",
       "name": "Parfume",
       "description": "",
       "weight": "360",
       "price": "20",
       "label": "recommended",
+      "model_id_list": "custom_feder",
       "photo": "photos/parfume",
       "visualization": "visualization/vz_parfume"
     },
     {
       "id": "faceted_mushroom",
-      "model_id_list": "custom_feder",
       "name": "Faceted Mushroom",
       "description": "",
       "weight": "360",
       "price": "35",
       "label": "",
+      "model_id_list": "custom_feder",
       "photo": "photos/faceted_mushroom",
       "visualization": "visualization/vz_faceted_mushroom"
     },
     {
       "id": "faceted_pear",
-      "model_id_list": "custom_feder",
       "name": "Faceted Pear",
       "description": "",
       "weight": "360",
       "price": "35",
       "label": "",
+      "model_id_list": "custom_feder",
       "photo": "photos/faceted_pear",
       "visualization": "visualization/vz_faceted_pear"
     },
     {
       "id": "disc_one_handed",
-      "model_id_list": "custom_one_handed_sword",
-      "name": "",
+      "name": "Disc pommel",
       "description": "",
       "weight": "360",
       "price": "0",
       "label": "",
+      "model_id_list": "custom_one_handed_sword",
       "photo": "photos/disc_one_handed",
       "visualization": "visualization/vz_disc_one_handed"
     },
     {
       "id": "custom_rapier_pommel",
-      "model_id_list": "custom_rapier",
       "name": "Rapier pommel",
       "description": "",
       "weight": "360",
       "price": "0",
       "label": "",
+      "model_id_list": "custom_rapier",
       "photo": "photos/custom_rapier_pommel",
       "visualization": "visualization/vz_custom_rapier_pommel"
     }
@@ -918,150 +918,181 @@
   "pommel_finish": [
     {
       "id": "polished",
-      "model_id_list": "custom_feder, custom_one_handed_sword, custom_rapier",
       "name": "Polished",
       "price": "0",
-      "hex": ""
+      "hex": "",
+      "model_id_list": "custom_feder, custom_one_handed_sword, custom_rapier"
     },
     {
       "id": "burnt",
-      "model_id_list": "custom_feder",
       "name": "Burnt",
       "price": "10",
-      "hex": "#333333"
+      "hex": "#333333",
+      "model_id_list": "custom_feder"
     },
     {
       "id": "black",
-      "model_id_list": "custom_feder",
       "name": "Black",
       "price": "20",
-      "hex": "#000000"
+      "hex": "#000000",
+      "model_id_list": "custom_feder"
     }
   ],
   "vat": [
     {
       "country": "AT",
-      "vat": "1.2"
+      "vat": "1.2",
+      "shipping": "40"
     },
     {
       "country": "BE",
-      "vat": "1.21"
+      "vat": "1.21",
+      "shipping": "40"
     },
     {
       "country": "BG",
-      "vat": "1.2"
+      "vat": "1.2",
+      "shipping": "40"
     },
     {
       "country": "HR",
-      "vat": "1.25"
+      "vat": "1.25",
+      "shipping": "40"
     },
     {
       "country": "CY",
-      "vat": "1.19"
+      "vat": "1.19",
+      "shipping": "40"
     },
     {
       "country": "CZ",
-      "vat": "1.21"
+      "vat": "1.21",
+      "shipping": "40"
     },
     {
       "country": "DK",
-      "vat": "1.25"
+      "vat": "1.25",
+      "shipping": "40"
     },
     {
       "country": "EE",
-      "vat": "1.24"
+      "vat": "1.24",
+      "shipping": "40"
     },
     {
       "country": "FI",
-      "vat": "1.255"
+      "vat": "1.255",
+      "shipping": "40"
     },
     {
       "country": "FR",
-      "vat": "1.2"
+      "vat": "1.2",
+      "shipping": "40"
     },
     {
       "country": "DE",
-      "vat": "1.19"
+      "vat": "1.19",
+      "shipping": "40"
     },
     {
       "country": "GR",
-      "vat": "1.24"
+      "vat": "1.24",
+      "shipping": "40"
     },
     {
       "country": "HU",
-      "vat": "1.27"
+      "vat": "1.27",
+      "shipping": "40"
     },
     {
       "country": "IE",
-      "vat": "1.23"
+      "vat": "1.23",
+      "shipping": "40"
     },
     {
       "country": "IT",
-      "vat": "1.22"
+      "vat": "1.22",
+      "shipping": "40"
     },
     {
       "country": "LV",
-      "vat": "1.21"
+      "vat": "1.21",
+      "shipping": "40"
     },
     {
       "country": "LT",
-      "vat": "1.21"
+      "vat": "1.21",
+      "shipping": "40"
     },
     {
       "country": "LU",
-      "vat": "1.17"
+      "vat": "1.17",
+      "shipping": "40"
     },
     {
       "country": "MT",
-      "vat": "1.18"
+      "vat": "1.18",
+      "shipping": "40"
     },
     {
       "country": "NL",
-      "vat": "1.21"
+      "vat": "1.21",
+      "shipping": "40"
     },
     {
       "country": "PL",
-      "vat": "1.23"
+      "vat": "1.23",
+      "shipping": "40"
     },
     {
       "country": "PT",
-      "vat": "1.23"
+      "vat": "1.23",
+      "shipping": "40"
     },
     {
       "country": "RO",
-      "vat": "1.19"
+      "vat": "1.19",
+      "shipping": "40"
     },
     {
       "country": "SK",
-      "vat": "1.23"
+      "vat": "1.23",
+      "shipping": "40"
     },
     {
       "country": "SI",
-      "vat": "1.22"
+      "vat": "1.22",
+      "shipping": "40"
     },
     {
       "country": "ES",
-      "vat": "1.21"
+      "vat": "1.21",
+      "shipping": "40"
     },
     {
       "country": "SE",
-      "vat": "1.25"
+      "vat": "1.25",
+      "shipping": "40"
     },
     {
       "country": "GB",
-      "vat": "1.2"
+      "vat": "1.2",
+      "shipping": "40"
     },
     {
       "country": "NO",
-      "vat": "1.25"
+      "vat": "1.25",
+      "shipping": "40"
     },
     {
       "country": "CH",
-      "vat": "1.081"
+      "vat": "1.081",
+      "shipping": "40"
     },
     {
       "country": "IS",
-      "vat": "1.24"
+      "vat": "1.24",
+      "shipping": "40"
     }
   ]
 }
