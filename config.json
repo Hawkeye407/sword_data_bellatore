@@ -3,8 +3,10 @@
     {
       "id": "custom_feder",
       "name": "Custom Feder",
-      "blade_geometry": "feder_geometry",
+      "name_cs": "Vlastní feder",
       "description": "Various forms and characteristics. Build your own feder from a vast variety of custom parts and customize it to perfectly match your style and gear. We recommend this product to those fencers or clubs whose knowledge is a bit more mature and who know exactly what they are looking for.",
+      "description_cs": "Různé formy a vlastnosti. Sestavte si vlastní feder z široké škály zakázkových dílů a přizpůsobte si ho tak, aby dokonale odpovídal vašemu stylu a vybavení. Tento produkt doporučujeme šermířům nebo klubům, jejichž znalosti jsou o něco zralejší a kteří přesně vědí, co hledají.",
+      "blade_geometry": "feder_geometry",
       "price": "220",
       "label": "",
       "active": "true",
@@ -13,8 +15,10 @@
     {
       "id": "custom_one_handed_sword",
       "name": "Custom one handed sword",
-      "blade_geometry": "one_handed_geometry",
+      "name_cs": "Jednoruční meč na zakázku",
       "description": "",
+      "description_cs": "",
+      "blade_geometry": "one_handed_geometry",
       "price": "300",
       "label": "",
       "active": "true",
@@ -23,8 +27,10 @@
     {
       "id": "custom_rapier",
       "name": "Custom Rapier",
-      "blade_geometry": "rapier_geometry",
+      "name_cs": "Vlastní rapír",
       "description": "",
+      "description_cs": "",
+      "blade_geometry": "rapier_geometry",
       "price": "300",
       "label": "",
       "active": "true",
@@ -173,6 +179,7 @@
     {
       "id": "light",
       "name": "light",
+      "name_cs": "lehký",
       "flex_from": "7",
       "flex_to": "9.5",
       "label": "",
@@ -181,6 +188,7 @@
     {
       "id": "medium",
       "name": "medium",
+      "name_cs": "střední",
       "flex_from": "11.5",
       "flex_to": "13",
       "label": "recommended",
@@ -189,6 +197,7 @@
     {
       "id": "strong",
       "name": "strong",
+      "name_cs": "silný",
       "flex_from": "13.5",
       "flex_to": "15",
       "label": "",
@@ -199,12 +208,14 @@
     {
       "id": "blunt",
       "name": "blunt",
+      "name_cs": "tupý",
       "label": "",
       "model_id_list": "custom_feder, custom_one_handed_sword, custom_rapier"
     },
     {
       "id": "sharp",
       "name": "sharp",
+      "name_cs": "ostrý",
       "label": "",
       "model_id_list": "custom_one_handed_sword"
     }
@@ -213,7 +224,9 @@
     {
       "id": "back_folded_tip",
       "name": "Back-Folded Tip",
+      "name_cs": "Zahnutá špička",
       "description": "To this day, we consider this to be the safest type of tip. As far as we know, it is accepted in all tournament.",
+      "description_cs": "Dodnes to považujeme za nejbezpečnější typ sázky. Pokud víme, je akceptován na všech turnajích.",
       "price": "0",
       "label": "",
       "model_id_list": "custom_feder, custom_one_handed_sword, custom_rapier",
@@ -223,7 +236,9 @@
     {
       "id": "rounded_tip",
       "name": "Rounded Tip",
+      "name_cs": "Zaoblený hrot",
       "description": "The tip of the feder is simply rounded. Needs additional protection to use in free sparring. Not suitable for tournaments.",
+      "description_cs": "Špička federu je jednoduše zaoblená. Pro použití ve volném sparingu potřebuje dodatečnou ochranu. Není vhodná pro turnaje.",
       "price": "0",
       "label": "",
       "model_id_list": "custom_feder, custom_one_handed_sword, custom_rapier",
@@ -233,7 +248,9 @@
     {
       "id": "spatulated_tip",
       "name": "Spatulated Tip",
+      "name_cs": "Špachtlovitý hrot",
       "description": "New generation tip, opinions are divided, we only recommend it to those who know what they are looking for. Its acceptance in tournaments varies.",
+      "description_cs": "Tip nové generace, názory se liší, doporučujeme ho pouze těm, kteří vědí, co hledají. Jeho přijetí v turnajích se liší.",
       "price": "0",
       "label": "recommended",
       "model_id_list": "custom_feder, custom_one_handed_sword, custom_rapier",
@@ -245,7 +262,9 @@
     {
       "id": "wide",
       "name": "Wide",
+      "name_cs": "Široký",
       "description": "Our “Wide Feder” builds on the trusted foundation of our standard federschwerts, featuring a broader schilt designed with tournament performance in mind.",
+      "description_cs": "Náš „Wide Feder“ staví na osvědčených základech našich standardních federschwertů a vyznačuje se širší vrstvou navrženou s ohledem na turnajový výkon.",
       "price": "0",
       "label": "recommended",
       "model_id_list": "custom_feder",
@@ -255,7 +274,9 @@
     {
       "id": "italian",
       "name": "Italian",
+      "name_cs": "Italský",
       "description": "Our “Italian Feder” combines the trusted handling and durability of our federschwerts with a schilt design inspired by the graceful forms of Italian swords.",
+      "description_cs": "Náš „italský feder“ kombinuje spolehlivou manipulaci a odolnost našich federschwertů s elegantním designem inspirovaným ladnými tvary italských mečů.",
       "price": "0",
       "label": "",
       "model_id_list": "custom_feder",
@@ -265,7 +286,9 @@
     {
       "id": "spiky",
       "name": "Spiky",
+      "name_cs": "Špičatý",
       "description": "Our Custom Spiky Feder takes the proven reliability of our Standard Feder and pairs it with a high level of personalization to suit your exact fencing preferences.",
+      "description_cs": "Náš Custom Spiky Feder bere osvědčenou spolehlivost našeho standardního Federu a kombinuje ji s vysokou úrovní personalizace, aby přesně vyhovoval vašim preferencím v oblasti oplocení.",
       "price": "0",
       "label": "",
       "model_id_list": "custom_feder",
@@ -275,7 +298,9 @@
     {
       "id": "schiltless",
       "name": "Schiltless",
+      "name_cs": "Bez schiltu",
       "description": "Our schiltless Feder is designed for fencers who prefer a cleaner, more minimalist blade profile — one that reflects earlier longsword forms and traditions.",
+      "description_cs": "Náš bezšiltový Feder je určen pro šermíře, kteří preferují čistší a minimalističtější profil čepele – takový, který odráží dřívější formy a tradice dlouhých mečů.",
       "price": "0",
       "label": "",
       "model_id_list": "custom_feder",
@@ -287,7 +312,9 @@
     {
       "id": "standard",
       "name": "Standard",
+      "name_cs": "Standartní",
       "description": "",
+      "description_cs": "",
       "price": "0",
       "label": "recommended",
       "model_id_list": "custom_feder",
@@ -298,7 +325,9 @@
     {
       "id": "twisted",
       "name": "Twisted",
+      "name_cs": "Zakroucený",
       "description": "",
+      "description_cs": "",
       "price": "15",
       "label": "",
       "model_id_list": "custom_feder",
@@ -309,7 +338,9 @@
     {
       "id": "waved",
       "name": "Waved",
+      "name_cs": "Vlnitý",
       "description": "",
+      "description_cs": "",
       "price": "15",
       "label": "",
       "model_id_list": "custom_feder",
@@ -320,7 +351,9 @@
     {
       "id": "cylindrical",
       "name": "Cylindrical",
+      "name_cs": "Válcový",
       "description": "",
+      "description_cs": "",
       "price": "40",
       "label": "",
       "model_id_list": "custom_feder",
@@ -331,7 +364,9 @@
     {
       "id": "standard_one_handed",
       "name": "Standard",
+      "name_cs": "Standartní",
       "description": "",
+      "description_cs": "",
       "price": "0",
       "label": "recommended",
       "model_id_list": "custom_one_handed_sword",
@@ -342,7 +377,9 @@
     {
       "id": "rapier_spain",
       "name": "Spain cup-hilt",
+      "name_cs": "Španělský",
       "description": "",
+      "description_cs": "",
       "price": "40",
       "label": "",
       "model_id_list": "custom_rapier",
@@ -378,6 +415,7 @@
     {
       "id": "polished",
       "name": "Polished",
+      "name_cs": "Leštěné",
       "price": "0",
       "hex": "",
       "model_id_list": "custom_feder, custom_one_handed_sword, custom_rapier",
@@ -386,6 +424,7 @@
     {
       "id": "dark",
       "name": "Dark",
+      "name_cs": "Tmavý",
       "price": "15",
       "hex": "#333333",
       "model_id_list": "custom_feder",
@@ -394,6 +433,7 @@
     {
       "id": "black",
       "name": "Black",
+      "name_cs": "Černý",
       "price": "25",
       "hex": "#000000",
       "model_id_list": "custom_feder",
@@ -404,7 +444,9 @@
     {
       "id": "oval",
       "name": "Oval",
+      "name_cs": "Ovál",
       "description": "",
+      "description_cs": "",
       "price": "0",
       "label": "",
       "model_id_list": "custom_feder",
@@ -414,7 +456,9 @@
     {
       "id": "octagonal_waisted",
       "name": "Octagonal Waisted",
+      "name_cs": "Oktagon zeštíhlený",
       "description": "",
+      "description_cs": "",
       "price": "10",
       "label": "recommended",
       "model_id_list": "custom_feder",
@@ -424,7 +468,9 @@
     {
       "id": "rectangle_waisted",
       "name": "Rectangle Waisted",
+      "name_cs": "Obdelník zeštíhleny",
       "description": "",
+      "description_cs": "",
       "price": "10",
       "label": "",
       "model_id_list": "custom_feder",
@@ -434,7 +480,9 @@
     {
       "id": "oval_one_handed",
       "name": "Oval",
+      "name_cs": "Ovál",
       "description": "",
+      "description_cs": "",
       "price": "0",
       "label": "",
       "model_id_list": "custom_one_handed_sword",
@@ -444,7 +492,9 @@
     {
       "id": "oval_custom_rapier",
       "name": "Oval",
+      "name_cs": "Ovál",
       "description": "",
+      "description_cs": "",
       "price": "0",
       "label": "",
       "model_id_list": "custom_rapier",
@@ -566,7 +616,9 @@
     {
       "id": "cord",
       "name": "Cord",
+      "name_cs": "Šňůra",
       "description": "",
+      "description_cs": "",
       "color_number": "1",
       "price": "0",
       "label": "",
@@ -576,7 +628,9 @@
     {
       "id": "double_cord",
       "name": "Double cord",
+      "name_cs": "Dvojitá šňůra",
       "description": "",
+      "description_cs": "",
       "color_number": "2",
       "price": "5",
       "label": "",
@@ -586,7 +640,9 @@
     {
       "id": "spiral_leather",
       "name": "Spiral leather",
+      "name_cs": "Kožená omotávka",
       "description": "",
+      "description_cs": "",
       "color_number": "1",
       "price": "10",
       "label": "",
@@ -596,7 +652,9 @@
     {
       "id": "double_spiral_leather",
       "name": "Double spiral leather",
+      "name_cs": "Dvojitá kožená omotávka",
       "description": "",
+      "description_cs": "",
       "color_number": "2",
       "price": "25",
       "label": "",
@@ -606,7 +664,9 @@
     {
       "id": "wired_leather",
       "name": "Wired leather",
+      "name_cs": "Kůže s drátem",
       "description": "",
+      "description_cs": "",
       "color_number": "1",
       "price": "25",
       "label": "",
@@ -616,7 +676,9 @@
     {
       "id": "ribbed_leather",
       "name": "Ribbed leather",
+      "name_cs": "Broušená kůže",
       "description": "",
+      "description_cs": "",
       "color_number": "1",
       "price": "30",
       "label": "",
@@ -626,7 +688,9 @@
     {
       "id": "ribbed_leather_rapier",
       "name": "Ribbed leather",
+      "name_cs": "Broušená kůže",
       "description": "",
+      "description_cs": "",
       "color_number": "1",
       "price": "30",
       "label": "",
@@ -636,7 +700,9 @@
     {
       "id": "spiral_leather_one_handed",
       "name": "Spiral leather",
+      "name_cs": "Kožená omotávka",
       "description": "",
+      "description_cs": "",
       "color_number": "1",
       "price": "10",
       "label": "",
@@ -648,6 +714,7 @@
     {
       "id": "black",
       "name": "Black",
+      "name_cs": "Černý",
       "price": "0",
       "hex": "#000000",
       "model_id_list": "custom_feder, custom_one_handed_sword",
@@ -656,6 +723,7 @@
     {
       "id": "natural",
       "name": "Natural",
+      "name_cs": "Přírodní",
       "price": "5",
       "hex": "#F5F5DC",
       "model_id_list": "custom_feder, custom_one_handed_sword",
@@ -664,6 +732,7 @@
     {
       "id": "dark_brown",
       "name": "Dark Brown",
+      "name_cs": "Tmavě hnědá",
       "price": "5",
       "hex": "#4B2E2A",
       "model_id_list": "custom_feder, custom_one_handed_sword",
@@ -672,6 +741,7 @@
     {
       "id": "light_brown",
       "name": "Light Brown",
+      "name_cs": "Světle hnědá",
       "price": "5",
       "hex": "#C1916B",
       "model_id_list": "custom_feder, custom_one_handed_sword",
@@ -680,6 +750,7 @@
     {
       "id": "dark_gray",
       "name": "Dark Gray",
+      "name_cs": "Tmavě šedá",
       "price": "5",
       "hex": "#4A4A4A",
       "model_id_list": "custom_feder, custom_one_handed_sword",
@@ -688,6 +759,7 @@
     {
       "id": "light_gray",
       "name": "Light Gray",
+      "name_cs": "Světle šedá",
       "price": "5",
       "hex": "#D3D3D3",
       "model_id_list": "custom_feder, custom_one_handed_sword",
@@ -696,6 +768,7 @@
     {
       "id": "dark_blue",
       "name": "Dark Blue",
+      "name_cs": "Tmavě modrá",
       "price": "5",
       "hex": "#00008B",
       "model_id_list": "custom_feder, custom_one_handed_sword",
@@ -704,6 +777,7 @@
     {
       "id": "light_blue",
       "name": "Light Blue",
+      "name_cs": "Světle modrá",
       "price": "5",
       "hex": "#ADD8E6",
       "model_id_list": "custom_feder, custom_one_handed_sword",
@@ -712,6 +786,7 @@
     {
       "id": "purple",
       "name": "Purple",
+      "name_cs": "Fialová",
       "price": "5",
       "hex": "#800080",
       "model_id_list": "custom_feder, custom_one_handed_sword",
@@ -720,6 +795,7 @@
     {
       "id": "pink",
       "name": "Pink",
+      "name_cs": "Růžový",
       "price": "5",
       "hex": "#FFC0CB",
       "model_id_list": "custom_feder, custom_one_handed_sword",
@@ -728,6 +804,7 @@
     {
       "id": "burgundy",
       "name": "Burgundy",
+      "name_cs": "burgundské",
       "price": "5",
       "hex": "#800020",
       "model_id_list": "custom_feder, custom_one_handed_sword",
@@ -736,6 +813,7 @@
     {
       "id": "red",
       "name": "Red",
+      "name_cs": "Červený",
       "price": "5",
       "hex": "#FF0000",
       "model_id_list": "custom_feder, custom_one_handed_sword",
@@ -744,6 +822,7 @@
     {
       "id": "orange",
       "name": "Orange",
+      "name_cs": "Pomerančový",
       "price": "5",
       "hex": "#FFA500",
       "model_id_list": "custom_feder, custom_one_handed_sword",
@@ -752,6 +831,7 @@
     {
       "id": "yellow",
       "name": "Yellow",
+      "name_cs": "Žluť",
       "price": "5",
       "hex": "#FFFF00",
       "model_id_list": "custom_feder, custom_one_handed_sword",
@@ -760,6 +840,7 @@
     {
       "id": "black_leather_ribbed",
       "name": "Black leather",
+      "name_cs": "Černá kůže",
       "price": "0",
       "hex": "#111111",
       "model_id_list": "custom_feder, custom_one_handed_sword, custom_rapier",
@@ -768,6 +849,7 @@
     {
       "id": "brown_leather_ribbed",
       "name": "Brown leather",
+      "name_cs": "Hnědá kůže",
       "price": "0",
       "hex": "#8B4513",
       "model_id_list": "custom_feder, custom_one_handed_sword, custom_rapier",
@@ -776,6 +858,7 @@
     {
       "id": "black_leather",
       "name": "Black leather",
+      "name_cs": "Černá kůže",
       "price": "10",
       "hex": "#111111",
       "model_id_list": "custom_feder, custom_one_handed_sword",
@@ -784,6 +867,7 @@
     {
       "id": "brown_leather",
       "name": "Brown leather",
+      "name_cs": "Hnědá kůže",
       "price": "10",
       "hex": "#8B4513",
       "model_id_list": "custom_feder, custom_one_handed_sword",
@@ -792,6 +876,7 @@
     {
       "id": "blue_leather",
       "name": "Blue leather",
+      "name_cs": "Modrá kůže",
       "price": "15",
       "hex": "#003366",
       "model_id_list": "custom_feder, custom_one_handed_sword",
@@ -800,6 +885,7 @@
     {
       "id": "red_leather",
       "name": "Red leather",
+      "name_cs": "Červená kůže",
       "price": "15",
       "hex": "#8B0000",
       "model_id_list": "custom_feder, custom_one_handed_sword",
@@ -808,6 +894,7 @@
     {
       "id": "green_leather",
       "name": "Green leather",
+      "name_cs": "Zelená kůže",
       "price": "15",
       "hex": "#006400",
       "model_id_list": "custom_feder, custom_one_handed_sword",
@@ -818,7 +905,9 @@
     {
       "id": "pear",
       "name": "Pear",
+      "name_cs": "Hruška",
       "description": "",
+      "description_cs": "",
       "weight": "360",
       "price": "0",
       "label": "",
@@ -829,7 +918,9 @@
     {
       "id": "mushroom",
       "name": "Mushroom",
+      "name_cs": "Houba",
       "description": "",
+      "description_cs": "",
       "weight": "360",
       "price": "0",
       "label": "",
@@ -840,7 +931,9 @@
     {
       "id": "sphere",
       "name": "Sphere",
+      "name_cs": "Koule",
       "description": "",
+      "description_cs": "",
       "weight": "360",
       "price": "5",
       "label": "",
@@ -851,7 +944,9 @@
     {
       "id": "slim_pear",
       "name": "Slim Pear",
+      "name_cs": "Štíhlá hruška",
       "description": "",
+      "description_cs": "",
       "weight": "360",
       "price": "5",
       "label": "",
@@ -862,7 +957,9 @@
     {
       "id": "parfume",
       "name": "Parfume",
+      "name_cs": "Parfém",
       "description": "",
+      "description_cs": "",
       "weight": "360",
       "price": "20",
       "label": "recommended",
@@ -873,7 +970,9 @@
     {
       "id": "faceted_mushroom",
       "name": "Faceted Mushroom",
+      "name_cs": "Fasetovaná houba",
       "description": "",
+      "description_cs": "",
       "weight": "360",
       "price": "35",
       "label": "",
@@ -884,7 +983,9 @@
     {
       "id": "faceted_pear",
       "name": "Faceted Pear",
+      "name_cs": "Fasetovaná hruška",
       "description": "",
+      "description_cs": "",
       "weight": "360",
       "price": "35",
       "label": "",
@@ -895,7 +996,9 @@
     {
       "id": "disc_one_handed",
       "name": "Disc pommel",
+      "name_cs": "Disková hlavice",
       "description": "",
+      "description_cs": "",
       "weight": "360",
       "price": "0",
       "label": "",
@@ -906,7 +1009,9 @@
     {
       "id": "custom_rapier_pommel",
       "name": "Rapier pommel",
+      "name_cs": "Rapírová hlavice",
       "description": "",
+      "description_cs": "",
       "weight": "360",
       "price": "0",
       "label": "",
@@ -919,6 +1024,7 @@
     {
       "id": "polished",
       "name": "Polished",
+      "name_cs": "Leštěné",
       "price": "0",
       "hex": "",
       "model_id_list": "custom_feder, custom_one_handed_sword, custom_rapier"
@@ -926,6 +1032,7 @@
     {
       "id": "burnt",
       "name": "Burnt",
+      "name_cs": "Spálený",
       "price": "10",
       "hex": "#333333",
       "model_id_list": "custom_feder"
@@ -933,6 +1040,7 @@
     {
       "id": "black",
       "name": "Black",
+      "name_cs": "Černý",
       "price": "20",
       "hex": "#000000",
       "model_id_list": "custom_feder"
