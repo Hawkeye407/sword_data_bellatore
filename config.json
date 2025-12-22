@@ -9,6 +9,7 @@
       "blade_geometry": "feder_geometry",
       "price": "220",
       "label": "",
+      "label_cs": "",
       "active": "true",
       "photo": "photos/custom_feder"
     },
@@ -21,6 +22,7 @@
       "blade_geometry": "one_handed_geometry",
       "price": "300",
       "label": "",
+      "label_cs": "",
       "active": "true",
       "photo": "photos/custom_one_handed_sword"
     },
@@ -33,6 +35,7 @@
       "blade_geometry": "rapier_geometry",
       "price": "300",
       "label": "",
+      "label_cs": "",
       "active": "true",
       "photo": "photos/custom_rapier"
     }
@@ -43,6 +46,7 @@
       "name": "83",
       "size": "83",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_one_handed_sword",
       "blade_tip_id_list": "back_folded_tip, rounded_tip,spatulated_tip"
     },
@@ -51,6 +55,7 @@
       "name": "90",
       "size": "90",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_feder",
       "blade_tip_id_list": "back_folded_tip, rounded_tip"
     },
@@ -59,6 +64,7 @@
       "name": "91",
       "size": "91",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_feder",
       "blade_tip_id_list": "back_folded_tip, rounded_tip"
     },
@@ -67,6 +73,7 @@
       "name": "92",
       "size": "92",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_feder",
       "blade_tip_id_list": "back_folded_tip, rounded_tip"
     },
@@ -75,6 +82,7 @@
       "name": "93",
       "size": "93",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_feder",
       "blade_tip_id_list": "back_folded_tip, rounded_tip"
     },
@@ -83,6 +91,7 @@
       "name": "94",
       "size": "94",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_feder",
       "blade_tip_id_list": "back_folded_tip, rounded_tip"
     },
@@ -91,6 +100,7 @@
       "name": "95",
       "size": "95",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_feder",
       "blade_tip_id_list": "back_folded_tip, rounded_tip"
     },
@@ -99,6 +109,7 @@
       "name": "96",
       "size": "96",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_feder",
       "blade_tip_id_list": "back_folded_tip, rounded_tip"
     },
@@ -107,6 +118,7 @@
       "name": "97",
       "size": "97",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_feder",
       "blade_tip_id_list": "back_folded_tip, rounded_tip"
     },
@@ -115,6 +127,7 @@
       "name": "98",
       "size": "98",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_feder",
       "blade_tip_id_list": "back_folded_tip, rounded_tip"
     },
@@ -123,6 +136,7 @@
       "name": "99",
       "size": "99",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_feder",
       "blade_tip_id_list": "back_folded_tip, rounded_tip"
     },
@@ -131,6 +145,7 @@
       "name": "100",
       "size": "100",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_feder",
       "blade_tip_id_list": "back_folded_tip, rounded_tip,spatulated_tip"
     },
@@ -139,6 +154,7 @@
       "name": "101",
       "size": "101",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_feder",
       "blade_tip_id_list": "back_folded_tip, rounded_tip"
     },
@@ -147,6 +163,7 @@
       "name": "102",
       "size": "102",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_feder",
       "blade_tip_id_list": "back_folded_tip, rounded_tip"
     },
@@ -155,6 +172,7 @@
       "name": "103",
       "size": "103",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_feder",
       "blade_tip_id_list": "back_folded_tip, rounded_tip"
     },
@@ -163,6 +181,7 @@
       "name": "104",
       "size": "104",
       "label": "recommended",
+      "label_cs": "doporučeno",
       "model_id_list": "custom_feder, custom_rapier",
       "blade_tip_id_list": "back_folded_tip, rounded_tip,spatulated_tip"
     },
@@ -171,6 +190,7 @@
       "name": "108",
       "size": "108",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_rapier",
       "blade_tip_id_list": "back_folded_tip, rounded_tip,spatulated_tip"
     }
@@ -183,6 +203,7 @@
       "flex_from": "7",
       "flex_to": "9.5",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_feder, custom_one_handed_sword, custom_rapier"
     },
     {
@@ -192,6 +213,7 @@
       "flex_from": "11.5",
       "flex_to": "13",
       "label": "recommended",
+      "label_cs": "doporučeno",
       "model_id_list": "custom_feder, custom_one_handed_sword, custom_rapier"
     },
     {
@@ -201,6 +223,7 @@
       "flex_from": "13.5",
       "flex_to": "15",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_feder, custom_one_handed_sword, custom_rapier"
     }
   ],
@@ -210,6 +233,7 @@
       "name": "blunt",
       "name_cs": "tupý",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_feder, custom_one_handed_sword, custom_rapier"
     },
     {
@@ -217,6 +241,7 @@
       "name": "sharp",
       "name_cs": "ostrý",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_one_handed_sword"
     }
   ],
@@ -229,6 +254,7 @@
       "description_cs": "Dodnes to považujeme za nejbezpečnější typ sázky. Pokud víme, je akceptován na všech turnajích.",
       "price": "0",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_feder, custom_one_handed_sword, custom_rapier",
       "photo": "photos/back_folded_tip",
       "visualization": "visualization/vz_back_folded_tip"
@@ -241,6 +267,7 @@
       "description_cs": "Špička federu je jednoduše zaoblená. Pro použití ve volném sparingu potřebuje dodatečnou ochranu. Není vhodná pro turnaje.",
       "price": "0",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_feder, custom_one_handed_sword, custom_rapier",
       "photo": "photos/rounded_tip",
       "visualization": "visualization/vz_rounded_tip"
@@ -253,6 +280,7 @@
       "description_cs": "Tip nové generace, názory se liší, doporučujeme ho pouze těm, kteří vědí, co hledají. Jeho přijetí v turnajích se liší.",
       "price": "0",
       "label": "recommended",
+      "label_cs": "doporučeno",
       "model_id_list": "custom_feder, custom_one_handed_sword, custom_rapier",
       "photo": "photos/spatulated_tip",
       "visualization": "visualization/vz_spatulated_tip"
@@ -267,6 +295,7 @@
       "description_cs": "Náš „Wide Feder“ staví na osvědčených základech našich standardních federschwertů a vyznačuje se širší vrstvou navrženou s ohledem na turnajový výkon.",
       "price": "0",
       "label": "recommended",
+      "label_cs": "doporučeno",
       "model_id_list": "custom_feder",
       "photo": "photos/wide",
       "visualization": "visualization/vz_wide"
@@ -279,6 +308,7 @@
       "description_cs": "Náš „italský feder“ kombinuje spolehlivou manipulaci a odolnost našich federschwertů s elegantním designem inspirovaným ladnými tvary italských mečů.",
       "price": "0",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_feder",
       "photo": "photos/italian",
       "visualization": "visualization/vz_italian"
@@ -291,6 +321,7 @@
       "description_cs": "Náš Custom Spiky Feder bere osvědčenou spolehlivost našeho standardního Federu a kombinuje ji s vysokou úrovní personalizace, aby přesně vyhovoval vašim preferencím v oblasti oplocení.",
       "price": "0",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_feder",
       "photo": "photos/spiky",
       "visualization": "visualization/vz_spiky"
@@ -303,6 +334,7 @@
       "description_cs": "Náš bezšiltový Feder je určen pro šermíře, kteří preferují čistší a minimalističtější profil čepele – takový, který odráží dřívější formy a tradice dlouhých mečů.",
       "price": "0",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_feder",
       "photo": "photos/schiltless",
       "visualization": "visualization/vz_schiltless"
@@ -317,6 +349,7 @@
       "description_cs": "",
       "price": "0",
       "label": "recommended",
+      "label_cs": "doporučeno",
       "model_id_list": "custom_feder",
       "crossguard_length_id_list": "25, 28, 18",
       "photo": "photos/standard",
@@ -330,6 +363,7 @@
       "description_cs": "",
       "price": "15",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_feder",
       "crossguard_length_id_list": "25, 28",
       "photo": "photos/twisted",
@@ -343,6 +377,7 @@
       "description_cs": "",
       "price": "15",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_feder",
       "crossguard_length_id_list": "25, 28",
       "photo": "photos/waved",
@@ -356,6 +391,7 @@
       "description_cs": "",
       "price": "40",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_feder",
       "crossguard_length_id_list": "25, 28",
       "photo": "photos/cylindrical",
@@ -369,6 +405,7 @@
       "description_cs": "",
       "price": "0",
       "label": "recommended",
+      "label_cs": "doporučeno",
       "model_id_list": "custom_one_handed_sword",
       "crossguard_length_id_list": "25, 28, 18",
       "photo": "photos/standard_one_handed",
@@ -382,6 +419,7 @@
       "description_cs": "",
       "price": "40",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_rapier",
       "crossguard_length_id_list": "28",
       "photo": "photos/rapier_spain",
@@ -394,6 +432,7 @@
       "name": "18",
       "size": "18",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_one_handed_sword"
     },
     {
@@ -401,6 +440,7 @@
       "name": "25",
       "size": "25",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_feder"
     },
     {
@@ -408,6 +448,7 @@
       "name": "28",
       "size": "28",
       "label": "recommended",
+      "label_cs": "doporučeno",
       "model_id_list": "custom_feder, custom_rapier"
     }
   ],
@@ -449,6 +490,7 @@
       "description_cs": "",
       "price": "0",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_feder",
       "photo": "photos/oval",
       "visualization": "visualization/vz_oval"
@@ -461,6 +503,7 @@
       "description_cs": "",
       "price": "10",
       "label": "recommended",
+      "label_cs": "doporučeno",
       "model_id_list": "custom_feder",
       "photo": "photos/octagonal_waisted",
       "visualization": "visualization/vz_octagonal_waisted"
@@ -473,6 +516,7 @@
       "description_cs": "",
       "price": "10",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_feder",
       "photo": "photos/rectangle_waisted",
       "visualization": "visualization/vz_rectangle_waisted"
@@ -485,6 +529,7 @@
       "description_cs": "",
       "price": "0",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_one_handed_sword",
       "photo": "photos/oval_one_handed",
       "visualization": "visualization/vz_oval_one_handed"
@@ -497,6 +542,7 @@
       "description_cs": "",
       "price": "0",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_rapier",
       "photo": "photos/oval_custom_rapier",
       "visualization": "visualization/vz_oval_custom_rapier"
@@ -508,6 +554,7 @@
       "name": "14",
       "size": "14",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_rapier",
       "blade_tip_id_list": "back_folded_tip, rounded_tip, spatulated_tip",
       "blade_length_id_list": "104, 108"
@@ -517,6 +564,7 @@
       "name": "16",
       "size": "16",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_one_handed_sword",
       "blade_tip_id_list": "back_folded_tip, rounded_tip, spatulated_tip",
       "blade_length_id_list": "83"
@@ -526,6 +574,7 @@
       "name": "28",
       "size": "28",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_feder",
       "blade_tip_id_list": "back_folded_tip, rounded_tip",
       "blade_length_id_list": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104"
@@ -535,6 +584,7 @@
       "name": "29",
       "size": "29",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_feder",
       "blade_tip_id_list": "back_folded_tip, rounded_tip",
       "blade_length_id_list": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104"
@@ -544,6 +594,7 @@
       "name": "30",
       "size": "30",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_feder",
       "blade_tip_id_list": "back_folded_tip, rounded_tip",
       "blade_length_id_list": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104"
@@ -553,6 +604,7 @@
       "name": "31",
       "size": "31",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_feder",
       "blade_tip_id_list": "back_folded_tip, rounded_tip",
       "blade_length_id_list": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104"
@@ -562,6 +614,7 @@
       "name": "32",
       "size": "32",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_feder",
       "blade_tip_id_list": "back_folded_tip, rounded_tip",
       "blade_length_id_list": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104"
@@ -571,6 +624,7 @@
       "name": "33",
       "size": "33",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_feder",
       "blade_tip_id_list": "back_folded_tip, rounded_tip",
       "blade_length_id_list": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104"
@@ -580,6 +634,7 @@
       "name": "34",
       "size": "34",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_feder",
       "blade_tip_id_list": "back_folded_tip, rounded_tip",
       "blade_length_id_list": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104"
@@ -589,6 +644,7 @@
       "name": "35",
       "size": "35",
       "label": "recommended",
+      "label_cs": "doporučeno",
       "model_id_list": "custom_feder",
       "blade_tip_id_list": "back_folded_tip, rounded_tip",
       "blade_length_id_list": "90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104"
@@ -598,6 +654,7 @@
       "name": "32",
       "size": "32",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_feder",
       "blade_tip_id_list": "spatulated_tip",
       "blade_length_id_list": "100"
@@ -607,6 +664,7 @@
       "name": "34",
       "size": "34",
       "label": "recommended",
+      "label_cs": "doporučeno",
       "model_id_list": "custom_feder",
       "blade_tip_id_list": "spatulated_tip",
       "blade_length_id_list": "104"
@@ -911,6 +969,7 @@
       "weight": "360",
       "price": "0",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_feder",
       "photo": "photos/pear",
       "visualization": "visualization/vz_pear"
@@ -924,6 +983,7 @@
       "weight": "360",
       "price": "0",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_feder",
       "photo": "photos/mushroom",
       "visualization": "visualization/vz_mushroom"
@@ -937,6 +997,7 @@
       "weight": "360",
       "price": "5",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_feder",
       "photo": "photos/sphere",
       "visualization": "visualization/vz_sphere"
@@ -950,6 +1011,7 @@
       "weight": "360",
       "price": "5",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_feder",
       "photo": "photos/slim_pear",
       "visualization": "visualization/vz_slim_pear"
@@ -963,6 +1025,7 @@
       "weight": "360",
       "price": "20",
       "label": "recommended",
+      "label_cs": "doporučeno",
       "model_id_list": "custom_feder",
       "photo": "photos/parfume",
       "visualization": "visualization/vz_parfume"
@@ -976,6 +1039,7 @@
       "weight": "360",
       "price": "35",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_feder",
       "photo": "photos/faceted_mushroom",
       "visualization": "visualization/vz_faceted_mushroom"
@@ -989,6 +1053,7 @@
       "weight": "360",
       "price": "35",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_feder",
       "photo": "photos/faceted_pear",
       "visualization": "visualization/vz_faceted_pear"
@@ -1002,6 +1067,7 @@
       "weight": "360",
       "price": "0",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_one_handed_sword",
       "photo": "photos/disc_one_handed",
       "visualization": "visualization/vz_disc_one_handed"
@@ -1015,6 +1081,7 @@
       "weight": "360",
       "price": "0",
       "label": "",
+      "label_cs": "",
       "model_id_list": "custom_rapier",
       "photo": "photos/custom_rapier_pommel",
       "visualization": "visualization/vz_custom_rapier_pommel"
