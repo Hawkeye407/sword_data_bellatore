@@ -775,7 +775,7 @@
       "name_cs": "Černý",
       "price": "0",
       "hex": "#000000",
-      "model_id_list": "custom_feder, custom_one_handed_sword",
+      "model_id_list": "custom_feder",
       "grip_finish_id_list": "cord, double_cord"
     },
     {
@@ -784,7 +784,7 @@
       "name_cs": "Přírodní",
       "price": "5",
       "hex": "#F5F5DC",
-      "model_id_list": "custom_feder, custom_one_handed_sword",
+      "model_id_list": "custom_feder",
       "grip_finish_id_list": "cord, double_cord"
     },
     {
@@ -793,7 +793,7 @@
       "name_cs": "Tmavě hnědá",
       "price": "5",
       "hex": "#4B2E2A",
-      "model_id_list": "custom_feder, custom_one_handed_sword",
+      "model_id_list": "custom_feder",
       "grip_finish_id_list": "cord, double_cord"
     },
     {
@@ -802,7 +802,7 @@
       "name_cs": "Světle hnědá",
       "price": "5",
       "hex": "#C1916B",
-      "model_id_list": "custom_feder, custom_one_handed_sword",
+      "model_id_list": "custom_feder",
       "grip_finish_id_list": "cord, double_cord"
     },
     {
@@ -811,7 +811,7 @@
       "name_cs": "Tmavě šedá",
       "price": "5",
       "hex": "#4A4A4A",
-      "model_id_list": "custom_feder, custom_one_handed_sword",
+      "model_id_list": "custom_feder",
       "grip_finish_id_list": "cord, double_cord"
     },
     {
@@ -820,7 +820,7 @@
       "name_cs": "Světle šedá",
       "price": "5",
       "hex": "#D3D3D3",
-      "model_id_list": "custom_feder, custom_one_handed_sword",
+      "model_id_list": "custom_feder",
       "grip_finish_id_list": "cord, double_cord"
     },
     {
@@ -829,7 +829,7 @@
       "name_cs": "Tmavě modrá",
       "price": "5",
       "hex": "#00008B",
-      "model_id_list": "custom_feder, custom_one_handed_sword",
+      "model_id_list": "custom_feder",
       "grip_finish_id_list": "cord, double_cord"
     },
     {
@@ -838,7 +838,7 @@
       "name_cs": "Světle modrá",
       "price": "5",
       "hex": "#ADD8E6",
-      "model_id_list": "custom_feder, custom_one_handed_sword",
+      "model_id_list": "custom_feder",
       "grip_finish_id_list": "cord, double_cord"
     },
     {
@@ -847,7 +847,7 @@
       "name_cs": "Fialová",
       "price": "5",
       "hex": "#800080",
-      "model_id_list": "custom_feder, custom_one_handed_sword",
+      "model_id_list": "custom_feder",
       "grip_finish_id_list": "cord, double_cord"
     },
     {
@@ -856,7 +856,7 @@
       "name_cs": "Růžový",
       "price": "5",
       "hex": "#FFC0CB",
-      "model_id_list": "custom_feder, custom_one_handed_sword",
+      "model_id_list": "custom_feder",
       "grip_finish_id_list": "cord, double_cord"
     },
     {
@@ -865,7 +865,7 @@
       "name_cs": "burgundské",
       "price": "5",
       "hex": "#800020",
-      "model_id_list": "custom_feder, custom_one_handed_sword",
+      "model_id_list": "custom_feder",
       "grip_finish_id_list": "cord, double_cord"
     },
     {
@@ -874,7 +874,7 @@
       "name_cs": "Červený",
       "price": "5",
       "hex": "#FF0000",
-      "model_id_list": "custom_feder, custom_one_handed_sword",
+      "model_id_list": "custom_feder",
       "grip_finish_id_list": "cord, double_cord"
     },
     {
@@ -883,7 +883,7 @@
       "name_cs": "Pomerančový",
       "price": "5",
       "hex": "#FFA500",
-      "model_id_list": "custom_feder, custom_one_handed_sword",
+      "model_id_list": "custom_feder",
       "grip_finish_id_list": "cord, double_cord"
     },
     {
@@ -892,7 +892,7 @@
       "name_cs": "Žluť",
       "price": "5",
       "hex": "#FFFF00",
-      "model_id_list": "custom_feder, custom_one_handed_sword",
+      "model_id_list": "custom_feder",
       "grip_finish_id_list": "cord, double_cord"
     },
     {
@@ -920,7 +920,7 @@
       "price": "10",
       "hex": "#111111",
       "model_id_list": "custom_feder, custom_one_handed_sword",
-      "grip_finish_id_list": "spiral_leather, double_spiral_leather, wired_leather"
+      "grip_finish_id_list": "spiral_leather, double_spiral_leather, wired_leather, spiral_leather_one_handed"
     },
     {
       "id": "brown_leather",
@@ -929,7 +929,7 @@
       "price": "10",
       "hex": "#8B4513",
       "model_id_list": "custom_feder, custom_one_handed_sword",
-      "grip_finish_id_list": "spiral_leather, double_spiral_leather, wired_leather"
+      "grip_finish_id_list": "spiral_leather, double_spiral_leather, wired_leather, spiral_leather_one_handed"
     },
     {
       "id": "blue_leather",
@@ -938,7 +938,7 @@
       "price": "15",
       "hex": "#003366",
       "model_id_list": "custom_feder, custom_one_handed_sword",
-      "grip_finish_id_list": "spiral_leather, double_spiral_leather, wired_leather"
+      "grip_finish_id_list": "spiral_leather, double_spiral_leather, wired_leather, spiral_leather_one_handed"
     },
     {
       "id": "red_leather",
@@ -947,7 +947,7 @@
       "price": "15",
       "hex": "#8B0000",
       "model_id_list": "custom_feder, custom_one_handed_sword",
-      "grip_finish_id_list": "spiral_leather, double_spiral_leather, wired_leather"
+      "grip_finish_id_list": "spiral_leather, double_spiral_leather, wired_leather, spiral_leather_one_handed"
     },
     {
       "id": "green_leather",
@@ -956,7 +956,7 @@
       "price": "15",
       "hex": "#006400",
       "model_id_list": "custom_feder, custom_one_handed_sword",
-      "grip_finish_id_list": "spiral_leather, double_spiral_leather, wired_leather"
+      "grip_finish_id_list": "spiral_leather, double_spiral_leather, wired_leather, spiral_leather_one_handed"
     }
   ],
   "pommel": [
